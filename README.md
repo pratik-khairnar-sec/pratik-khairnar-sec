@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4&customColorList=0:#030712,1:#06b6d4,2:#10b981,3:#030712&height=210&section=header&text=Pratik%20Khairnar&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=Cyber%20Security%20Researcher%20%E2%80%A2%20Security%20Tool%20Developer%20%E2%80%A2%20AppSec%20%2F%20VAPT&descAlignY=62&descSize=18&descColor=38bdf8" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=0:#030712,1:#06b6d4,2:#10b981,3:#030712&height=210&section=header&text=Pratik%20Khairnar&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=Cyber%20Security%20Researcher%20%E2%80%A2%20Security%20Tool%20Developer%20%E2%80%A2%20AppSec%20%2F%20VAPT&descAlignY=62&descSize=18&descColor=38bdf8" width="100%" alt="Header Banner" />
 </p>
 
 <p align="center">
@@ -101,7 +101,7 @@ My primary mission is architecting high-velocity, zero-false-positive security v
 ## 📈 Activity & Security Telemetry
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratik-khairnar-sec&theme=tokyo-night&bg_color=040711&color=38bdf8&line=10b981&point=c8a96e&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://ghchart.rshah.org/38bdf8/pratik-khairnar-sec" width="100%" alt="GitHub Contributions Chart" />
 </p>
 
 <p align="center">
