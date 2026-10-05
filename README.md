@@ -8,7 +8,8 @@
 
 <p align="center">
   <a href="mailto:pratik.khairnar.sec@gmail.com"><img src="https://img.shields.io/badge/Open%20To%20Work-VAPT%20Engineer%20%7C%20Pentester-10b981?style=for-the-badge&logo=target&logoColor=white" alt="Hiring Status"></a>
-  <a href="mailto:pratik.khairnar.sec@gmail.com"><img src="https://img.shields.io/badge/Email-pratik.khairnar.sec%40gmail.com-38bdf8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Contact"></a>
+  <a href="https://pratik-khairnar-sec.github.io/portfolio/"><img src="https://img.shields.io/badge/Live%20Portfolio-Interactive%20Showcase-38bdf8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Portfolio"></a>
+  <a href="mailto:pratik.khairnar.sec@gmail.com"><img src="https://img.shields.io/badge/Email-pratik.khairnar.sec%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Contact"></a>
   <a href="https://pratik-khairnar-sec.github.io/authentix-enterprise/"><img src="https://img.shields.io/badge/AUTHENTIX-Enterprise%20Portal-c8a96e?style=for-the-badge&logo=shield&logoColor=white" alt="AUTHENTIX"></a>
   <a href="https://github.com/pratik-khairnar-sec"><img src="https://img.shields.io/badge/Frameworks-8%20Production%20Suites-94a3b8?style=for-the-badge&logo=github&logoColor=white" alt="Suites"></a>
 </p>
@@ -22,6 +23,7 @@
 > - **Target Roles**: **VAPT Engineer**, **Web Application Penetration Tester**, **Junior Security Consultant**, **Application Security (AppSec) Engineer**.
 > - **Availability**: Immediate Joining • Fresh Graduate / Entry-Level.
 > - **Hands-on Competencies**: Manual web application penetration testing (OWASP Top 10, ASVS), PortSwigger Burp Suite Montoya API extension development, Python security tooling, Digital Forensics & live cybercrime incident investigation.
+> - **Interactive Portfolio**: 👉 **[https://pratik-khairnar-sec.github.io/portfolio/](https://pratik-khairnar-sec.github.io/portfolio/)**
 > - **Contact via Email**: [pratik.khairnar.sec@gmail.com](mailto:pratik.khairnar.sec@gmail.com) • [LinkedIn Profile](https://linkedin.com/in/pratik-khairnar-sec)
 
 I am a **VAPT Engineer**, **Cyber Security Researcher**, and **Security Tool Developer** from India. 
