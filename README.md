@@ -1,23 +1,31 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=0:#030712,1:#06b6d4,2:#10b981,3:#030712&height=210&section=header&text=Pratik%20Khairnar&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=Cyber%20Security%20Researcher%20%E2%80%A2%20Security%20Tool%20Developer%20%E2%80%A2%20AppSec%20%2F%20VAPT&descAlignY=62&descSize=18&descColor=38bdf8" width="100%" alt="Header Banner" />
+  <img src="assets/banner.svg" width="100%" alt="Pratik Khairnar - VAPT Engineer & Penetration Tester" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Cyber+Security+Researcher+%26+Security+Tool+Developer;Creator+of+AUTHENTIX%2C+ReconArsenal%2C+Reflectra+%26+BlindStrike;AppSec+%2F+VAPT+Engineer+%E2%80%A2+Burp+Suite+Montoya+API;Pioneering+Zero-False-Positive+Security+Verification+Engines;Defensive+Security+%26+Bug+Bounty+Research" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=VAPT+Engineer+%26+Web+Application+Penetration+Tester;Actively+Seeking+Roles+%E2%80%A2+Immediate+Joining;Creator+of+AUTHENTIX+v2.1.0%2C+ReconArsenal%2C+Reflectra+%26+BlindStrike;Burp+Suite+Montoya+API+Extension+Engineering;Empirical+Zero-False-Positive+Security+Verification" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/pratik-khairnar-sec"><img src="https://img.shields.io/badge/Security%20Researcher-AppSec%20%7C%20VAPT-10b981?style=for-the-badge&logo=shield&logoColor=white" alt="Researcher"></a>
-  <a href="https://github.com/pratik-khairnar-sec"><img src="https://img.shields.io/badge/Frameworks-8%20Production%20Suites-38bdf8?style=for-the-badge&logo=github&logoColor=white" alt="Tools"></a>
-  <a href="https://pratik-khairnar-sec.github.io/authentix-enterprise/"><img src="https://img.shields.io/badge/AUTHENTIX-Enterprise%20Portal-c8a96e?style=for-the-badge&logo=portswigger" alt="AUTHENTIX"></a>
-  <a href="#-strict-ethical-disclosure-statement"><img src="https://img.shields.io/badge/Research-Defensive%20Only-f59e0b?style=for-the-badge&logo=warning" alt="Ethical"></a>
+  <a href="mailto:pratik.khairnar.sec@gmail.com"><img src="https://img.shields.io/badge/Open%20To%20Work-VAPT%20Engineer%20%7C%20Pentester-10b981?style=for-the-badge&logo=target&logoColor=white" alt="Hiring Status"></a>
+  <a href="https://pratik-khairnar-sec.github.io/authentix-enterprise/reports/Pratik_Khairnar_Resume_ATS.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-Download%20Full--Page%20ATS%20PDF-c8a96e?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download Resume"></a>
+  <a href="https://pratik-khairnar-sec.github.io/authentix-enterprise/"><img src="https://img.shields.io/badge/AUTHENTIX-Enterprise%20Portal-38bdf8?style=for-the-badge&logo=shield&logoColor=white" alt="AUTHENTIX"></a>
+  <a href="https://github.com/pratik-khairnar-sec"><img src="https://img.shields.io/badge/Frameworks-8%20Production%20Suites-94a3b8?style=for-the-badge&logo=github&logoColor=white" alt="Suites"></a>
 </p>
 
 ---
 
 ## ⚡ About Me
 
-I am a **Cyber Security Researcher**, **Application Security (AppSec) Engineer**, and **Security Tool Developer** from India. 
+> [!IMPORTANT]
+> ### 🎯 Open to Work — Actively Interviewing for VAPT & Pentesting Roles
+> - **Target Roles**: **VAPT Engineer**, **Web Application Penetration Tester**, **Junior Security Consultant**, **Application Security (AppSec) Engineer**.
+> - **Availability**: Immediate Joining • Fresh Graduate / Entry-Level.
+> - **Hands-on Competencies**: Manual web application penetration testing (OWASP Top 10, ASVS), PortSwigger Burp Suite Montoya API extension development, Python security tooling, Digital Forensics & live cybercrime incident investigation.
+> - **Direct Contact**: [pratik.khairnar.sec@gmail.com](mailto:pratik.khairnar.sec@gmail.com) • +91-8799981052 • [LinkedIn Profile](https://linkedin.com/in/pratik-khairnar-sec)
+> - 📄 **[Download Official Full-Page ATS Resume (PDF)](https://pratik-khairnar-sec.github.io/authentix-enterprise/reports/Pratik_Khairnar_Resume_ATS.pdf)**
+
+I am a **VAPT Engineer**, **Cyber Security Researcher**, and **Security Tool Developer** from India. 
 
 My primary mission is architecting high-velocity, zero-false-positive security verification frameworks that replace noisy, outdated scanners with surgical precision. Every tool I publish features clean architectures, zero unnecessary dependencies, automated Telegram alerting, and dedicated interactive web triage environments.
 
@@ -101,7 +109,7 @@ My primary mission is architecting high-velocity, zero-false-positive security v
 ## 📈 Activity & Security Telemetry
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/38bdf8/pratik-khairnar-sec" width="100%" alt="GitHub Contributions Chart" />
+  <img src="assets/telemetry.svg" width="100%" alt="VAPT Capabilities & Telemetry" />
 </p>
 
 <p align="center">
