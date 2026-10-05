@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="mailto:pratik.khairnar.sec@gmail.com"><img src="https://img.shields.io/badge/Open%20To%20Work-VAPT%20Engineer%20%7C%20Pentester-10b981?style=for-the-badge&logo=target&logoColor=white" alt="Hiring Status"></a>
-  <a href="https://pratik-khairnar-sec.github.io/authentix-enterprise/reports/Pratik_Khairnar_Resume_ATS.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-Download%20Full--Page%20ATS%20PDF-c8a96e?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download Resume"></a>
+  <a href="https://pratik-khairnar-sec.github.io/authentix-enterprise/reports/Pratik_Khairnar_Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-Download%20Official%20Resume%20PDF-c8a96e?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download Resume"></a>
   <a href="https://pratik-khairnar-sec.github.io/authentix-enterprise/"><img src="https://img.shields.io/badge/AUTHENTIX-Enterprise%20Portal-38bdf8?style=for-the-badge&logo=shield&logoColor=white" alt="AUTHENTIX"></a>
   <a href="https://github.com/pratik-khairnar-sec"><img src="https://img.shields.io/badge/Frameworks-8%20Production%20Suites-94a3b8?style=for-the-badge&logo=github&logoColor=white" alt="Suites"></a>
 </p>
@@ -18,12 +18,12 @@
 ## ⚡ About Me
 
 > [!IMPORTANT]
-> ### 🎯 Open to Work — Actively Interviewing for VAPT & Pentesting Roles
+> ### 🎯 Open to Work — Available for VAPT & Penetration Testing Roles
 > - **Target Roles**: **VAPT Engineer**, **Web Application Penetration Tester**, **Junior Security Consultant**, **Application Security (AppSec) Engineer**.
 > - **Availability**: Immediate Joining • Fresh Graduate / Entry-Level.
 > - **Hands-on Competencies**: Manual web application penetration testing (OWASP Top 10, ASVS), PortSwigger Burp Suite Montoya API extension development, Python security tooling, Digital Forensics & live cybercrime incident investigation.
 > - **Direct Contact**: [pratik.khairnar.sec@gmail.com](mailto:pratik.khairnar.sec@gmail.com) • +91-8799981052 • [LinkedIn Profile](https://linkedin.com/in/pratik-khairnar-sec)
-> - 📄 **[Download Official Full-Page ATS Resume (PDF)](https://pratik-khairnar-sec.github.io/authentix-enterprise/reports/Pratik_Khairnar_Resume_ATS.pdf)**
+> - 📄 **[Download Official Security Engineer Resume (PDF)](https://pratik-khairnar-sec.github.io/authentix-enterprise/reports/Pratik_Khairnar_Resume.pdf)**
 
 I am a **VAPT Engineer**, **Cyber Security Researcher**, and **Security Tool Developer** from India. 
 
