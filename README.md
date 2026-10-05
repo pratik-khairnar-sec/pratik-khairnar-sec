@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=VAPT+Engineer+%26+Web+Application+Penetration+Tester;Actively+Seeking+Roles+%E2%80%A2+Immediate+Joining;Creator+of+AUTHENTIX+v2.1.0%2C+ReconArsenal%2C+Reflectra+%26+BlindStrike;Burp+Suite+Montoya+API+Extension+Engineering;Empirical+Zero-False-Positive+Security+Verification" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=VAPT+Engineer+%26+Web+Application+Penetration+Tester;Actively+Seeking+Roles+%E2%80%A2+Immediate+Joining;Creator+of+AUTHENTIX+v2.1.0%2C+BlindStrike+%26+Reflectra;Burp+Suite+Montoya+API+Extension+Engineering;Empirical+Zero-False-Positive+Security+Verification" alt="Typing SVG" />
 </p>
 
 <p align="center">
