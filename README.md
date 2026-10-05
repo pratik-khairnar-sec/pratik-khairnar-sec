@@ -3,13 +3,13 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Cyber+Security+Researcher+%26+Security+Tool+Developer;Creator+of+AUTHENTIX%2C+ReconArsenal%2C+Reflectra+%26+BlindStrike;AppSec+%2F+VAPT+Specialist+%E2%80%A2+Burp+Suite+Montoya+API;Engineering+Zero-False-Positive+Security+Engines;Defensive+Security+%26+Bug+Bounty+Research" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Cyber+Security+Researcher+%26+Security+Tool+Developer;Creator+of+AUTHENTIX%2C+ReconArsenal%2C+Reflectra+%26+BlindStrike;AppSec+%2F+VAPT+Engineer+%E2%80%A2+Burp+Suite+Montoya+API;Pioneering+Zero-False-Positive+Security+Verification+Engines;Defensive+Security+%26+Bug+Bounty+Research" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://github.com/pratik-khairnar-sec"><img src="https://img.shields.io/badge/Security%20Researcher-AppSec%20%7C%20VAPT-10b981?style=for-the-badge&logo=shield&logoColor=white" alt="Researcher"></a>
-  <a href="https://github.com/pratik-khairnar-sec"><img src="https://img.shields.io/badge/Frameworks-8%20Specialized%20Suites-38bdf8?style=for-the-badge&logo=github&logoColor=white" alt="Tools"></a>
-  <a href="https://github.com/pratik-khairnar-sec"><img src="https://img.shields.io/badge/Focus-Burp%20Extensions%20%7C%20OSINT-a855f7?style=for-the-badge&logo=target" alt="Focus"></a>
+  <a href="https://github.com/pratik-khairnar-sec"><img src="https://img.shields.io/badge/Frameworks-8%20Production%20Suites-38bdf8?style=for-the-badge&logo=github&logoColor=white" alt="Tools"></a>
+  <a href="https://pratik-khairnar-sec.github.io/authentix-enterprise/"><img src="https://img.shields.io/badge/AUTHENTIX-Enterprise%20Portal-c8a96e?style=for-the-badge&logo=portswigger" alt="AUTHENTIX"></a>
   <a href="#-strict-ethical-disclosure-statement"><img src="https://img.shields.io/badge/Research-Defensive%20Only-f59e0b?style=for-the-badge&logo=warning" alt="Ethical"></a>
 </p>
 
@@ -17,21 +17,27 @@
 
 ## ⚡ About Me
 
-I am a **Cyber Security Researcher**, **Application Security (AppSec) Analyst**, and **Security Tool Developer** from India. 
+I am a **Cyber Security Researcher**, **Application Security (AppSec) Engineer**, and **Security Tool Developer** from India. 
 
-My primary mission is engineering high-speed, zero-false-positive security verification frameworks that replace noisy, outdated scanners with surgical precision. Every tool I publish features clean architectures, zero unnecessary dependencies, automated Telegram alerting, and dedicated interactive web triage environments.
+My primary mission is architecting high-velocity, zero-false-positive security verification frameworks that replace noisy, outdated scanners with surgical precision. Every tool I publish features clean architectures, zero unnecessary dependencies, automated Telegram alerting, and dedicated interactive web triage environments.
 
 - 🛡️ **Core Domains**: Web Application Penetration Testing (VAPT), Burp Suite Extension Development (Montoya API), OSINT Attack Surface Discovery, Blind SQLi Detection, Context-Aware XSS Analysis, and Chrome Extension Security Tooling.
 - 🎯 **Philosophy**: Strict mathematical baselining, empirical latency calibration, headless browser confirmation, and defensive research.
 
 ---
 
-## 🏆 Flagship Security Framework: AUTHENTIX v2.1.0
+## 🏆 Flagship Enterprise Suite: AUTHENTIX v2.1.0
 
 > **Next-Generation Authentication, IDOR/BOLA & Secret Scanner Security Suite for Burp Suite**
 > *(Built on native PortSwigger Montoya API • Java 17/21 • Deterministic Finite-State Automaton)*
 
-`
+<p align="center">
+  <a href="https://pratik-khairnar-sec.github.io/authentix-enterprise/" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Launch%20Interactive%20Enterprise%20Portal-AUTHENTIX%20v2.1.0-c8a96e?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Launch Portal">
+  </a>
+</p>
+
+```
        [ Burp Suite HTTP Proxy / Repeater / Scanner / Intruder ]
                                    │
                                    ▼
@@ -61,42 +67,50 @@ My primary mission is engineering high-speed, zero-false-positive security verif
 [ Burp Suite Modern UI Tabs ]                       [ Telegram Alerts Push ]
   - Findings & Cross-Actor Matrix                     - Zero UI Latency Async
   - Attack Chains Graph Studio                        - Kali cURL PoC Generator
-`
+```
 
-### ⚡ AUTHENTIX Core Capabilities:
+### ⚡ AUTHENTIX Core Highlights:
 - 🎯 **Cross-Actor IDOR & BOLA Matrix**: Auto-detects sequential/UUID IDs and maps horizontal & vertical privilege escalation.
 - 🛡️ **27 Formal Security Invariants**: Deterministic state machine checks covering OTP replay, session fixation, token entropy, JWT structural flaws, and BFLA.
 - 🔬 **28 Deep Secret Analysis Rules**: Scans HTTP streams for JWT secrets, AWS, GCP, Azure, OpenAI, Claude, GitHub, Stripe, Firebase, Telegram, and SendGrid keys.
 - ⛓️ **12 Correlated Attack Chain Rules**: Synthesizes compound findings into Account Takeover (ATO) kill-chain graphs.
 - 📱 **Telegram Bot Dispatcher**: Mobile alerts with terminal-ready Kali cURL reproduction commands in real time.
 - 🏦 **NimbusBank v2 Lab**: 16 banking challenge vectors with automated exploit verification.
+- 🌐 **Executive Portal & Reports**: [https://pratik-khairnar-sec.github.io/authentix-enterprise/](https://pratik-khairnar-sec.github.io/authentix-enterprise/)
 
 ---
 
 ## 🛡️ Complete Security Arsenal Portfolio
+*(Automatically synchronized in real time with all active public repositories)*
 
-| Framework / Tool | Core Functionality | Version | Status / Access | Interactive Demo | Repository |
+<!-- START_PORTFOLIO -->
+| Framework / Tool | Core Functionality | Version | Category | Interactive Demo | Repository |
 |---|---|---|---|---|---|
-| **AUTHENTIX** | Burp Suite Montoya Security Suite: 27 Invariants, 28 Secret Rules, 12 ATO Chains | 2.1.0 | 🔒 Private Enterprise | Spotlight Above | [AUTHENTIX](https://github.com/pratik-khairnar-sec/AUTHENTIX) *(Private)* |
-| **[ReconArsenal](https://github.com/pratik-khairnar-sec/recon-arsenal)** | Unified OSINT & Passive Threat Surface Suite (Wayback CDX, AlienVault OTX, Passive DNS, Punycode, Dorks) | 1.0.0 | 🌐 Public | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/recon-arsenal/) | [econ-arsenal](https://github.com/pratik-khairnar-sec/recon-arsenal) |
-| **[Reflectra](https://github.com/pratik-khairnar-sec/Reflectra)** | Context-aware XSS verification engine with Headless Chrome confirmation & DOM-sink analysis | 7.0.0 | 🌐 Public | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/Reflectra/) | [Reflectra](https://github.com/pratik-khairnar-sec/Reflectra) |
-| **[BlindStrike](https://github.com/pratik-khairnar-sec/BlindStrike)** | Time-Based & Boolean Blind SQLi framework with baseline latency calibration & jitter normalization | 7.0.0 | 🌐 Public | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/BlindStrike/) | [BlindStrike](https://github.com/pratik-khairnar-sec/BlindStrike) |
-| **[WaybackLens](https://github.com/pratik-khairnar-sec/wayback-lens)** | High-Performance Wayback Machine CDX Recon & Triage Workspace Chrome Extension (Manifest V3) | 1.0.0 | 🌐 Public | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/wayback-lens/) | [wayback-lens](https://github.com/pratik-khairnar-sec/wayback-lens) |
-| **[EndpointFinder](https://github.com/pratik-khairnar-sec/endpoint-finder-extension)** | Autonomous Manifest V3 Chrome Extension for client-side JS endpoint, API route, and parameter harvesting | 1.0.0 | 🌐 Public | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/endpoint-finder-extension/) | [endpoint-finder-extension](https://github.com/pratik-khairnar-sec/endpoint-finder-extension) |
-| **[ReconForge](https://github.com/pratik-khairnar-sec/ReconForge)** | Master Bug Bounty & VAPT Multi-Target Reconnaissance Framework with 33 Master Phases & 13,600+ Dorks | 3.0.0 | 🌐 Public | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/ReconForge/) | [ReconForge](https://github.com/pratik-khairnar-sec/ReconForge) |
-| **[CORSair](https://github.com/pratik-khairnar-sec/CORSair)** | Cross-Origin Request Security Analysis & PoC Engine with automated exploitation staging | 3.0.0 | 🌐 Public | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/CORSair/) | [CORSair](https://github.com/pratik-khairnar-sec/CORSair) |
+| **AUTHENTIX Enterprise** | Burp Suite Montoya Security Suite: 27 Invariants, 28 Secret Rules, 12 ATO Chains | `v2.1.0` | 🏆 Flagship | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/authentix-enterprise/) | [`authentix-enterprise`](https://github.com/pratik-khairnar-sec/authentix-enterprise) |
+| **ReconArsenal** | Unified OSINT & Passive Threat Surface Suite (Wayback CDX, OTX, Passive DNS, Dorks) | `v1.0.0` | ⚡ Core Suite | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/recon-arsenal/) | [`recon-arsenal`](https://github.com/pratik-khairnar-sec/recon-arsenal) |
+| **Reflectra** | Context-aware XSS scanner with Headless Chrome verification & DOM-sink analysis | `v7.0.0` | 🛡️ AppSec | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/Reflectra/) | [`Reflectra`](https://github.com/pratik-khairnar-sec/Reflectra) |
+| **BlindStrike** | Time-Based & Boolean Blind SQLi framework with baseline latency calibration | `v7.0.0` | 🛡️ AppSec | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/BlindStrike/) | [`BlindStrike`](https://github.com/pratik-khairnar-sec/BlindStrike) |
+| **WaybackLens** | High-Performance Wayback Machine CDX Recon & Triage Chrome Extension (Manifest V3) | `v1.0.0` | 🔎 OSINT | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/wayback-lens/) | [`wayback-lens`](https://github.com/pratik-khairnar-sec/wayback-lens) |
+| **EndpointFinder** | Autonomous Chrome Extension for deep client-side JS endpoint & parameter extraction | `v1.0.0` | 🔎 Recon | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/endpoint-finder-extension/) | [`endpoint-finder-extension`](https://github.com/pratik-khairnar-sec/endpoint-finder-extension) |
+| **ReconForge** | Master Bug Bounty & VAPT Multi-Target Framework with 33 Phases & 13,600+ Dorks | `v3.0.0` | ⚡ Framework | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/ReconForge/) | [`ReconForge`](https://github.com/pratik-khairnar-sec/ReconForge) |
+| **CORSair** | Cross-Origin Request Security Analysis & PoC Engine with automated exploitation staging | `v3.0.0` | 🛡️ AppSec | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/CORSair/) | [`CORSair`](https://github.com/pratik-khairnar-sec/CORSair) |
+<!-- END_PORTFOLIO -->
 
 ---
 
-## 📊 Live GitHub Telemetry
+## 📈 Activity & Security Telemetry
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratik-khairnar-sec&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050811&title_color=38bdf8&text_color=94a3b8&icon_color=10b981" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratik-khairnar-sec&theme=tokyonight&hide_border=true&background=050811&ring=38bdf8&fire=10b981&currStreakLabel=10b981" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratik-khairnar-sec&theme=tokyo-night&bg_color=040711&color=38bdf8&line=10b981&point=c8a96e&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik-khairnar-sec&layout=compact&theme=tokyonight&hide_border=true&bg_color=050811&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pratik-khairnar-sec&show_icons=true&theme=tokyonight&hide_border=true&bg_color=040711&title_color=38bdf8&text_color=94a3b8&icon_color=10b981" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratik-khairnar-sec&theme=tokyonight&hide_border=true&background=040711&ring=38bdf8&fire=10b981&currStreakLabel=10b981" alt="GitHub Streak" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik-khairnar-sec&layout=compact&theme=tokyonight&hide_border=true&bg_color=040711&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" width="60%" />
 </p>
 
 ---
