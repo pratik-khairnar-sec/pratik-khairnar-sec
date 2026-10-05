@@ -9,9 +9,15 @@
 <p align="center">
   <a href="mailto:pratik.khairnar.sec@gmail.com"><img src="https://img.shields.io/badge/Open%20To%20Work-VAPT%20Engineer%20%7C%20Pentester-10b981?style=for-the-badge&logo=target&logoColor=white" alt="Hiring Status"></a>
   <a href="https://pratik-khairnar-sec.github.io/portfolio/"><img src="https://img.shields.io/badge/Live%20Portfolio-Interactive%20Showcase-38bdf8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Portfolio"></a>
-  <a href="mailto:pratik.khairnar.sec@gmail.com"><img src="https://img.shields.io/badge/Email-pratik.khairnar.sec%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Contact"></a>
   <a href="https://pratik-khairnar-sec.github.io/authentix-enterprise/"><img src="https://img.shields.io/badge/AUTHENTIX-Enterprise%20Portal-c8a96e?style=for-the-badge&logo=shield&logoColor=white" alt="AUTHENTIX"></a>
-  <a href="https://github.com/pratik-khairnar-sec"><img src="https://img.shields.io/badge/Frameworks-8%20Production%20Suites-94a3b8?style=for-the-badge&logo=github&logoColor=white" alt="Suites"></a>
+  <a href="https://github.com/pratik-khairnar-sec"><img src="https://img.shields.io/badge/Security%20Suites-7%2B%20Production%20Tools-94a3b8?style=for-the-badge&logo=github&logoColor=white" alt="Suites"></a>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/pratik-khairnar-sec/"><img src="https://img.shields.io/badge/LinkedIn-pratik--khairnar--sec-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://x.com/PratikSec"><img src="https://img.shields.io/badge/X%20(Twitter)-%40PratikSec-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"></a>
+  <a href="https://pratik-khairnar-sec.medium.com/"><img src="https://img.shields.io/badge/Medium-pratik--khairnar--sec-12100e?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="mailto:pratik.khairnar.sec@gmail.com"><img src="https://img.shields.io/badge/Email-pratik.khairnar.sec%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Contact"></a>
 </p>
 
 ---
@@ -24,7 +30,7 @@
 > - **Availability**: Immediate Joining • Fresh Graduate / Entry-Level.
 > - **Hands-on Competencies**: Manual web application penetration testing (OWASP Top 10, ASVS), PortSwigger Burp Suite Montoya API extension development, Python security tooling, Digital Forensics & live cybercrime incident investigation.
 > - **Interactive Portfolio**: 👉 **[https://pratik-khairnar-sec.github.io/portfolio/](https://pratik-khairnar-sec.github.io/portfolio/)**
-> - **Contact via Email**: [pratik.khairnar.sec@gmail.com](mailto:pratik.khairnar.sec@gmail.com) • [LinkedIn Profile](https://linkedin.com/in/pratik-khairnar-sec)
+> - **Verified Network**: [LinkedIn](https://linkedin.com/in/pratik-khairnar-sec/) • [X / Twitter (@PratikSec)](https://x.com/PratikSec) • [Medium (@pratik-khairnar-sec)](https://pratik-khairnar-sec.medium.com/) • [Email](mailto:pratik.khairnar.sec@gmail.com)
 
 I am a **VAPT Engineer**, **Cyber Security Researcher**, and **Security Tool Developer** from India. 
 
@@ -101,9 +107,19 @@ My primary mission is architecting high-velocity, zero-false-positive security v
 | **BlindStrike** | Time-Based & Boolean Blind SQLi framework with baseline latency calibration | `v7.0.0` | 🛡️ AppSec | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/BlindStrike/) | [`BlindStrike`](https://github.com/pratik-khairnar-sec/BlindStrike) |
 | **WaybackLens** | High-Performance Wayback Machine CDX Recon & Triage Chrome Extension (Manifest V3) | `v1.0.0` | 🔎 OSINT | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/wayback-lens/) | [`wayback-lens`](https://github.com/pratik-khairnar-sec/wayback-lens) |
 | **EndpointFinder** | Autonomous Chrome Extension for deep client-side JS endpoint & parameter extraction | `v1.0.0` | 🔎 Recon | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/endpoint-finder-extension/) | [`endpoint-finder-extension`](https://github.com/pratik-khairnar-sec/endpoint-finder-extension) |
-| **ReconForge** | Master Bug Bounty & VAPT Multi-Target Framework with 33 Phases & 13,600+ Dorks | `v3.0.0` | ⚡ Framework | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/ReconForge/) | [`ReconForge`](https://github.com/pratik-khairnar-sec/ReconForge) |
+| **ReconForge** | Master VAPT & External Threat Surface Automation Framework with 33 Phases & 13,600+ Dorks | `v3.0.0` | ⚡ Framework | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/ReconForge/) | [`ReconForge`](https://github.com/pratik-khairnar-sec/ReconForge) |
 | **CORSair** | Cross-Origin Request Security Analysis & PoC Engine with automated exploitation staging | `v3.0.0` | 🛡️ AppSec | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/CORSair/) | [`CORSair`](https://github.com/pratik-khairnar-sec/CORSair) |
 <!-- END_PORTFOLIO -->
+
+---
+
+## 📝 Security Research & Technical Writeups
+
+In-depth technical architecture breakdowns, vulnerability research, and security engineering writeups published on **[Medium (@pratik-khairnar-sec)](https://pratik-khairnar-sec.medium.com/)**:
+
+- 🛡️ **[Inside AUTHENTIX: Building an Automated BOLA & IDOR Detection Engine for Burp Suite using the Montoya API](https://pratik-khairnar-sec.medium.com/)** — Why legacy HTTP proxies fail at access control, deterministic finite-state automation, cross-actor matrix verification, and 27 formal security invariants.
+- ⚡ **[Beyond Latency: How Empirical Baseline Calibration Eliminates False Positives in Time-Based Blind SQLi](https://pratik-khairnar-sec.medium.com/)** — Network jitter mitigation, baseline timing calibration, and mathematical validation in BlindStrike v7.0.0.
+- 🔬 **[Context-Aware Reflected XSS: Why Regex Scanners Fail and How Headless Verification Fixes It](https://pratik-khairnar-sec.medium.com/)** — Context-escaping heuristics, DOM-sink analysis, and headless Chrome verification in Reflectra.
 
 ---
 
