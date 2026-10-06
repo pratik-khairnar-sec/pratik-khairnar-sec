@@ -2,7 +2,8 @@
 # -*- coding: utf-8 -*-
 """
 Automated Portfolio Synchronizer for Pratik Khairnar (@pratik-khairnar-sec)
-Discovers all public repositories and updates the profile README table automatically.
+Discovers all public repositories, resolves live demos/pages automatically,
+and updates the profile README table with zero manual intervention.
 """
 
 import urllib.request
@@ -27,12 +28,68 @@ def fetch_repos():
         print(f"Error fetching repos: {e}")
         return []
 
+def resolve_demo_link(repo, custom_demo=None):
+    """
+    Intelligently resolves the most relevant interactive demo or documentation link.
+    Guarantees no dead dashes or missing links for current or future repositories.
+    """
+    if custom_demo:
+        return f"[🌐 Live Demo]({custom_demo})"
+        
+    # 1. Custom handling for portfolio
+    if repo["name"].lower() == "portfolio":
+        return "[🌐 Live Portfolio](https://pratik-khairnar-sec.github.io/portfolio/)"
+        
+    # 2. Explicit repository homepage (e.g. GitHub Pages or external demo)
+    homepage = (repo.get("homepage") or "").strip()
+    if homepage:
+        return f"[🌐 Live Demo]({homepage})"
+        
+    # 3. Check if GitHub Pages is active
+    if repo.get("has_pages"):
+        return f"[🌐 Live Demo](https://{USERNAME}.github.io/{repo['name']}/)"
+        
+    # 4. Check if tool has releases or binaries
+    if repo.get("open_issues_count") is not None:
+        return f"[📦 Architecture & Docs]({repo['html_url']}#readme)"
+        
+    return f"[📖 Repository]({repo['html_url']})"
+
+def resolve_category_badge(repo, custom_badge=None):
+    """
+    Dynamically generates high-visibility categorized shields for future repositories.
+    """
+    if custom_badge:
+        return custom_badge
+        
+    topics = [t.lower() for t in repo.get("topics", [])]
+    name = repo["name"].lower()
+    
+    if any(k in topics or k in name for k in ["portfolio", "showcase"]):
+        return "🌐 Live Portfolio"
+    if any(k in topics or k in name for k in ["appsec", "vapt", "xss", "sqli", "idor", "bola", "burp"]):
+        return "🛡️ AppSec"
+    if any(k in topics or k in name for k in ["osint", "recon", "reconnaissance", "dork", "wayback"]):
+        return "🔎 OSINT"
+    if any(k in topics or k in name for k in ["chrome-extension", "extension", "manifest-v3"]):
+        return "🧩 Extension"
+    if any(k in topics or k in name for k in ["framework", "scanner"]):
+        return "⚡ Framework"
+        
+    return "⚡ Security Tool"
+
+def format_title(name):
+    """Converts kebab/snake case names to clean Title Case."""
+    clean = name.replace("-", " ").replace("_", " ")
+    return " ".join(word.capitalize() for word in clean.split())
+
 def format_portfolio_table(repos):
     rows = []
     
     # Priority order for featured tools
     priority = [
         "authentix-enterprise",
+        "portfolio",
         "recon-arsenal",
         "Reflectra",
         "BlindStrike",
@@ -42,7 +99,7 @@ def format_portfolio_table(repos):
         "CORSair"
     ]
     
-    # Custom display metadata
+    # Custom curated metadata for primary flagship tools
     custom_meta = {
         "authentix-enterprise": {
             "title": "AUTHENTIX Enterprise",
@@ -50,6 +107,13 @@ def format_portfolio_table(repos):
             "version": "v2.1.0",
             "badge": "🏆 Flagship",
             "demo": "https://pratik-khairnar-sec.github.io/authentix-enterprise/"
+        },
+        "portfolio": {
+            "title": "Cybersecurity Portfolio & Showcase",
+            "desc": "Official Interactive Cybersecurity Portfolio & VAPT Engineer Showcase",
+            "version": "Live",
+            "badge": "🌐 Live Portfolio",
+            "demo": "https://pratik-khairnar-sec.github.io/portfolio/"
         },
         "recon-arsenal": {
             "title": "ReconArsenal",
@@ -102,33 +166,38 @@ def format_portfolio_table(repos):
         }
     }
     
-    # Process prioritized repos first
     seen = set()
+    
+    # 1. Process prioritized repos first
     for name in priority:
         repo = next((r for r in repos if r["name"].lower() == name.lower()), None)
         if repo:
-            seen.add(repo["name"])
+            seen.add(repo["name"].lower())
             meta = custom_meta.get(repo["name"], {})
-            title = meta.get("title", repo["name"])
+            title = meta.get("title", format_title(repo["name"]))
             desc = meta.get("desc", repo.get("description") or "Security framework")
             ver = meta.get("version", "v1.0.0")
             badge = meta.get("badge", "Active")
-            demo_url = meta.get("demo") or repo.get("homepage")
-            demo_link = f"[🌐 Live Demo]({demo_url})" if demo_url else "—"
+            demo_link = resolve_demo_link(repo, meta.get("demo"))
             repo_link = f"[`{repo['name']}`]({repo['html_url']})"
             
             rows.append(f"| **{title}** | {desc} | `{ver}` | {badge} | {demo_link} | {repo_link} |")
             
-    # Process any other public repositories dynamically (future repos!)
+    # 2. Dynamically process ANY future or newly created public repositories
     for repo in repos:
-        if repo["name"] == PROFILE_REPO or repo["name"] in seen or repo.get("fork"):
+        repo_name_lower = repo["name"].lower()
+        # Skip the profile README repository itself and already added repos or forks
+        if repo_name_lower == PROFILE_REPO.lower() or repo_name_lower in seen or repo.get("fork"):
             continue
-        seen.add(repo["name"])
-        desc = repo.get("description") or "Security research repository"
-        demo_url = repo.get("homepage")
-        demo_link = f"[🌐 Live Demo]({demo_url})" if demo_url else "—"
+            
+        seen.add(repo_name_lower)
+        title = format_title(repo["name"])
+        desc = repo.get("description") or "Automated cybersecurity & security testing repository"
+        badge = resolve_category_badge(repo)
+        demo_link = resolve_demo_link(repo)
         repo_link = f"[`{repo['name']}`]({repo['html_url']})"
-        rows.append(f"| **{repo['name']}** | {desc} | `Latest` | 🚀 Dynamic | {demo_link} | {repo_link} |")
+        
+        rows.append(f"| **{title}** | {desc} | `Latest` | {badge} | {demo_link} | {repo_link} |")
         
     header = [
         "| Framework / Tool | Core Functionality | Version | Category | Interactive Demo | Repository |",
@@ -158,13 +227,12 @@ def update_readme():
     if re.search(pattern, content, re.DOTALL):
         new_content = re.sub(pattern, replacement, content, flags=re.DOTALL)
     else:
-        # Fallback if markers are missing
         new_content = content + "\n\n" + replacement
 
     with open(readme_path, "w", encoding="utf-8") as f:
         f.write(new_content)
 
-    print("Successfully synchronized portfolio in README.md!")
+    print("Successfully synchronized portfolio and future repository pipeline in README.md!")
 
 if __name__ == "__main__":
     update_readme()
