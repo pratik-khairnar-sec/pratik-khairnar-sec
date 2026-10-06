@@ -104,7 +104,7 @@ My primary mission is architecting high-velocity, zero-false-positive security v
 
 <p align="center">
   <a href="https://github.com/pratik-khairnar-sec/Kavach-AI" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F%20Launch%20Kavach%20AI%20Copilot-v9.0.0-10b981?style=for-the-badge&logo=google&logoColor=white" alt="Launch Kavach AI">
+    <img src="https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F%20Launch%20Kavach%20AI%20Copilot-v9.1.0-10b981?style=for-the-badge&logo=google&logoColor=white" alt="Launch Kavach AI">
   </a>
 </p>
 
@@ -145,7 +145,7 @@ My primary mission is architecting high-velocity, zero-false-positive security v
 | Framework / Tool | Core Functionality | Version | Category | Interactive Demo | Repository |
 |---|---|---|---|---|---|
 | **AUTHENTIX Enterprise** | Burp Suite Montoya Security Suite: 27 Invariants, 28 Secret Rules, 12 ATO Chains | `v2.1.0` | 🏆 Flagship | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/authentix-enterprise/) | [`authentix-enterprise`](https://github.com/pratik-khairnar-sec/authentix-enterprise) |
-| **Kavach AI** | Autonomous Career Copilot, Realtime Job Hunter & Universal Personal Assistant | `v9.0.0` | 🛡️ Flagship AI | [🌐 Live Demo](https://github.com/pratik-khairnar-sec/Kavach-AI) | [`Kavach-AI`](https://github.com/pratik-khairnar-sec/Kavach-AI) |
+| **Kavach AI** | Autonomous Career Copilot, Realtime Job Hunter & Universal Personal Assistant | `v9.1.0` | 🛡️ Flagship AI | [🌐 Live Demo](https://github.com/pratik-khairnar-sec/Kavach-AI) | [`Kavach-AI`](https://github.com/pratik-khairnar-sec/Kavach-AI) |
 | **Cybersecurity Portfolio & Showcase** | Official Interactive Cybersecurity Portfolio & VAPT Engineer Showcase | `Live` | 🌐 Live Portfolio | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/portfolio/) | [`portfolio`](https://github.com/pratik-khairnar-sec/portfolio) |
 | **ReconArsenal** | Unified OSINT & Passive Threat Surface Suite (Wayback CDX, OTX, Passive DNS, Dorks) | `v1.0.0` | ⚡ Core Suite | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/recon-arsenal/) | [`recon-arsenal`](https://github.com/pratik-khairnar-sec/recon-arsenal) |
 | **Reflectra** | Context-aware XSS scanner with Headless Chrome verification & DOM-sink analysis | `v7.0.0` | 🛡️ AppSec | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/Reflectra/) | [`Reflectra`](https://github.com/pratik-khairnar-sec/Reflectra) |
