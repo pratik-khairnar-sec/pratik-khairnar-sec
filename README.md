@@ -10,7 +10,8 @@
   <a href="mailto:pratik.khairnar.sec@gmail.com"><img src="https://img.shields.io/badge/Open%20To%20Work-VAPT%20Engineer%20%7C%20Pentester-10b981?style=for-the-badge&logo=target&logoColor=white" alt="Hiring Status"></a>
   <a href="https://pratik-khairnar-sec.github.io/portfolio/"><img src="https://img.shields.io/badge/Live%20Portfolio-Interactive%20Showcase-38bdf8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Portfolio"></a>
   <a href="https://pratik-khairnar-sec.github.io/authentix-enterprise/"><img src="https://img.shields.io/badge/AUTHENTIX-Enterprise%20Portal-c8a96e?style=for-the-badge&logo=shield&logoColor=white" alt="AUTHENTIX"></a>
-  <a href="https://github.com/pratik-khairnar-sec"><img src="https://img.shields.io/badge/Security%20Suites-7%2B%20Production%20Tools-94a3b8?style=for-the-badge&logo=github&logoColor=white" alt="Suites"></a>
+  <a href="https://github.com/pratik-khairnar-sec/Kavach-AI"><img src="https://img.shields.io/badge/KAVACH%20AI-Autonomous%20Copilot-10b981?style=for-the-badge&logo=google&logoColor=white" alt="Kavach AI"></a>
+  <a href="https://github.com/pratik-khairnar-sec"><img src="https://img.shields.io/badge/Security%20%26%20AI%20Suites-9%2B%20Production%20Tools-94a3b8?style=for-the-badge&logo=github&logoColor=white" alt="Suites"></a>
 </p>
 
 <p align="center">
@@ -94,6 +95,47 @@ My primary mission is architecting high-velocity, zero-false-positive security v
 - 🏦 **NimbusBank v2 Lab**: 16 banking challenge vectors with automated exploit verification.
 - 🌐 **Executive Portal & Reports**: [https://pratik-khairnar-sec.github.io/authentix-enterprise/](https://pratik-khairnar-sec.github.io/authentix-enterprise/)
 
+
+---
+
+## 🛡️ Flagship AI Copilot: KAVACH AI
+> **Autonomous Career Intelligence, Realtime Job Hunter & Universal Personal Assistant**
+> *(100% Client-Side • Powered by Google Gemini 2.5 • Zero Telemetry BYOK • Real-Time Anti-Hallucination Search Grounding)*
+
+<p align="center">
+  <a href="https://github.com/pratik-khairnar-sec/Kavach-AI" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F%20Launch%20Kavach%20AI%20Copilot-v9.0.0-10b981?style=for-the-badge&logo=google&logoColor=white" alt="Launch Kavach AI">
+  </a>
+</p>
+
+```
+                       [ 7 Autonomous Intelligence Engines ]
+                                         │
+       ┌─────────────────────────────────┼─────────────────────────────────┐
+       ▼                                 ▼                                 ▼
+┌──────────────┐                 ┌──────────────┐                 ┌──────────────┐
+│  Mode 01:    │                 │  Mode 02:    │                 │  Mode 07:    │
+│  Kavach AI   │                 │  Interview   │                 │  Job Hunter  │
+│  Universal   │                 │  Simulator   │                 │  Real-Time   │
+│  Assistant   │                 │  (Resume     │                 │  Anti-Fake   │
+│  Ask Anything│                 │   Grounded)  │                 │  Grounded    │
+└──────┬───────┘                 └──────┬───────┘                 └──────┬───────┘
+       │                                │                                │
+       └────────────────────────────────┼────────────────────────────────┘
+                                         ▼
+                 [ 100% Client-Side In-Browser Architecture ]
+                   (Direct Google API Handshake • Zero Server • BYOK)
+```
+
+### ⚡ Kavach AI Core Highlights:
+- 🧠 **Universal Personal Assistant ("Ask Anything")**: Unconstrained technical reasoning copilot for exploit development, complex systems architecture, code debugging, and strategic planning.
+- 🎯 **Targeted Interview Simulator**: Grounded directly in verified resume achievements and target JD; delivers live, tailored answers with Short / Medium / Long response pacing.
+- ⚡ **Autonomous Anti-Hallucination Job Hunter**: Continuous real-time scanning over 680+ top global tech & cybersecurity employers. Zero fake links — verified via Google Search grounding metadata (`[{ googleSearch: {} }]`).
+- 🛂 **Client-Side Visa Sponsorship Filter**: Automatic rejection of non-sponsored international jobs; fuzzy deduplication across scan cycles.
+- 🌓 **Dual Aesthetic Engine**: High outdoor-contrast Sunlight Light Theme + Obsidian Midnight Dark Theme.
+- 📎 **Multimodal Staging**: Multi-file attachment, clipboard screenshot paste (`Ctrl + V`), and drag-and-drop.
+- 🌐 **Repository & Source**: [https://github.com/pratik-khairnar-sec/Kavach-AI](https://github.com/pratik-khairnar-sec/Kavach-AI)
+
 ---
 
 ## 🛡️ Complete Security Arsenal Portfolio
@@ -103,6 +145,7 @@ My primary mission is architecting high-velocity, zero-false-positive security v
 | Framework / Tool | Core Functionality | Version | Category | Interactive Demo | Repository |
 |---|---|---|---|---|---|
 | **AUTHENTIX Enterprise** | Burp Suite Montoya Security Suite: 27 Invariants, 28 Secret Rules, 12 ATO Chains | `v2.1.0` | 🏆 Flagship | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/authentix-enterprise/) | [`authentix-enterprise`](https://github.com/pratik-khairnar-sec/authentix-enterprise) |
+| **Kavach AI** | Autonomous Career Copilot, Realtime Job Hunter & Universal Personal Assistant | `v9.0.0` | 🛡️ Flagship AI | [🌐 Live Demo](https://github.com/pratik-khairnar-sec/Kavach-AI) | [`Kavach-AI`](https://github.com/pratik-khairnar-sec/Kavach-AI) |
 | **Cybersecurity Portfolio & Showcase** | Official Interactive Cybersecurity Portfolio & VAPT Engineer Showcase | `Live` | 🌐 Live Portfolio | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/portfolio/) | [`portfolio`](https://github.com/pratik-khairnar-sec/portfolio) |
 | **ReconArsenal** | Unified OSINT & Passive Threat Surface Suite (Wayback CDX, OTX, Passive DNS, Dorks) | `v1.0.0` | ⚡ Core Suite | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/recon-arsenal/) | [`recon-arsenal`](https://github.com/pratik-khairnar-sec/recon-arsenal) |
 | **Reflectra** | Context-aware XSS scanner with Headless Chrome verification & DOM-sink analysis | `v7.0.0` | 🛡️ AppSec | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/Reflectra/) | [`Reflectra`](https://github.com/pratik-khairnar-sec/Reflectra) |
