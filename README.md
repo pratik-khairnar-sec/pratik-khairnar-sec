@@ -10,7 +10,6 @@
   <a href="mailto:pratik.khairnar.sec@gmail.com"><img src="https://img.shields.io/badge/Open%20To%20Work-VAPT%20Engineer%20%7C%20Pentester-10b981?style=for-the-badge&logo=target&logoColor=white" alt="Hiring Status"></a>
   <a href="https://pratik-khairnar-sec.github.io/portfolio/"><img src="https://img.shields.io/badge/Live%20Portfolio-Interactive%20Showcase-38bdf8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Portfolio"></a>
   <a href="https://pratik-khairnar-sec.github.io/authentix-enterprise/"><img src="https://img.shields.io/badge/AUTHENTIX-Enterprise%20Portal-c8a96e?style=for-the-badge&logo=shield&logoColor=white" alt="AUTHENTIX"></a>
-  <a href="https://pratik-khairnar-sec.github.io/kavach-enterprise/"><img src="https://img.shields.io/badge/KAVACH%20AI-Autonomous%20Copilot-10b981?style=for-the-badge&logo=google&logoColor=white" alt="Kavach AI"></a>
   <a href="https://github.com/pratik-khairnar-sec"><img src="https://img.shields.io/badge/Security%20%26%20AI%20Suites-9%2B%20Production%20Tools-94a3b8?style=for-the-badge&logo=github&logoColor=white" alt="Suites"></a>
 </p>
 
@@ -95,46 +94,6 @@ My primary mission is architecting high-velocity, zero-false-positive security v
 - 🏦 **NimbusBank v2 Lab**: 16 banking challenge vectors with automated exploit verification.
 - 🌐 **Executive Portal & Reports**: [https://pratik-khairnar-sec.github.io/authentix-enterprise/](https://pratik-khairnar-sec.github.io/authentix-enterprise/)
 
-
----
-
-## 🛡️ Flagship AI Copilot: KAVACH AI
-> **Autonomous Career Intelligence, 37+ Frontier AI Models & Universal Personal Assistant**
-> *(100% Client-Side • Omniscient Smart Auto-Router • Zero-Code Live Dynamic Discovery • Zero Telemetry BYOK)*
-
-<p align="center">
-  <a href="https://pratik-khairnar-sec.github.io/kavach-enterprise/" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%9B%A1%EF%B8%8F%20Launch%20Kavach%20AI%20Enterprise-v2.2.0-eab308?style=for-the-badge&logo=shield&logoColor=black" alt="Launch Kavach AI Enterprise">
-  </a>
-</p>
-
-```
-                       [ 37+ Frontier Models & 7 Autonomous Engines ]
-                                         │
-       ┌─────────────────────────────────┼─────────────────────────────────┐
-       ▼                                 ▼                                 ▼
-┌──────────────┐                 ┌──────────────┐                 ┌──────────────┐
-│  Mode 01:    │                 │  Smart AI    │                 │  Live Model  │
-│  Kavach AI   │                 │  Router      │                 │  Discovery   │
-│  Universal   │                 │  Intent-     │                 │  Global Open │
-│  Copilot     │                 │  Adaptive    │                 │  Registry    │
-└──────┬───────┘                 └──────┬───────┘                 └──────┬───────┘
-       │                                │                                │
-       └────────────────────────────────┼────────────────────────────────┘
-                                         ▼
-                 [ 100% Client-Side In-Browser Architecture ]
-                 (Direct Encrypted API Handshake • 27 Invariants • BYOK)
-```
-
-### ⚡ Kavach AI Core Highlights:
-- ⚡ **37+ Frontier AI Model Hub**: Pre-indexed frontier models spanning Google Gemini (2.5 Pro/Flash, 2M ctx), Anthropic Claude (3.7 Sonnet, 3.5 Sonnet/Haiku), OpenAI (o3-mini, o1, GPT-4o), DeepSeek (R1 671B, V3), xAI Grok (Grok 2, Grok Vision), Meta Llama (3.3 70B, 405B), Mistral, Alibaba Qwen (Coder 32B, QwQ), Perplexity Sonar, and Cohere.
-- 🌐 **Zero-Code Live Dynamic Model Auto-Discovery**: Automatically discovers newly released models worldwide via global public model registries (OpenRouter & Google AI Studio) and integrates them with zero code changes.
-- 🔀 **Omniscient Smart AI Router**: Analyzes prompt intent (formal proofs, code exploits, interview dialogue, resume bullets, live search, 50+ file bundles) and dynamically routes to the highest-performing model.
-- 🧠 **Universal Personal Assistant ("Ask Anything")**: Unconstrained technical reasoning copilot for exploit development, complex systems architecture, code debugging, and strategic planning.
-- 🎯 **Targeted Interview Simulator**: Grounded directly in verified resume achievements and target JD; delivers live, tailored answers with Short / Medium / Long response pacing.
-- ⚡ **Autonomous Anti-Hallucination Job Hunter**: Continuous real-time scanning over 688+ top global tech & cybersecurity employers. Zero fake links — verified via Google Search grounding metadata (`[{ googleSearch: {} }]`).
-- 📎 **50+ Multi-File Staging**: Concurrent parsing of PDF, Word, Excel, code files, and clipboard screenshots (`Ctrl + V`).
-- 🌐 **Executive Portal & Live Demo**: [https://pratik-khairnar-sec.github.io/kavach-enterprise/](https://pratik-khairnar-sec.github.io/kavach-enterprise/)
 
 ---
 
