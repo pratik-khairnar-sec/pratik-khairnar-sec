@@ -99,8 +99,8 @@ My primary mission is architecting high-velocity, zero-false-positive security v
 ---
 
 ## 🛡️ Flagship AI Copilot: KAVACH AI
-> **Autonomous Career Intelligence, Realtime Job Hunter & Universal Personal Assistant**
-> *(100% Client-Side • Powered by Google Gemini 2.5 • Zero Telemetry BYOK • Real-Time Anti-Hallucination Search Grounding)*
+> **Autonomous Career Intelligence, 37+ Frontier AI Models & Universal Personal Assistant**
+> *(100% Client-Side • Omniscient Smart Auto-Router • Zero-Code Live Dynamic Discovery • Zero Telemetry BYOK)*
 
 <p align="center">
   <a href="https://pratik-khairnar-sec.github.io/kavach-enterprise/" target="_blank">
@@ -109,32 +109,32 @@ My primary mission is architecting high-velocity, zero-false-positive security v
 </p>
 
 ```
-                       [ 7 Autonomous Intelligence Engines ]
+                       [ 37+ Frontier Models & 7 Autonomous Engines ]
                                          │
        ┌─────────────────────────────────┼─────────────────────────────────┐
        ▼                                 ▼                                 ▼
 ┌──────────────┐                 ┌──────────────┐                 ┌──────────────┐
-│  Mode 01:    │                 │  Mode 02:    │                 │  Mode 07:    │
-│  Kavach AI   │                 │  Interview   │                 │  Job Hunter  │
-│  Universal   │                 │  Simulator   │                 │  Real-Time   │
-│  Assistant   │                 │  (Resume     │                 │  Anti-Fake   │
-│  Ask Anything│                 │   Grounded)  │                 │  Grounded    │
+│  Mode 01:    │                 │  Smart AI    │                 │  Live Model  │
+│  Kavach AI   │                 │  Router      │                 │  Discovery   │
+│  Universal   │                 │  Intent-     │                 │  Global Open │
+│  Copilot     │                 │  Adaptive    │                 │  Registry    │
 └──────┬───────┘                 └──────┬───────┘                 └──────┬───────┘
        │                                │                                │
        └────────────────────────────────┼────────────────────────────────┘
                                          ▼
                  [ 100% Client-Side In-Browser Architecture ]
-                   (Direct Google API Handshake • Zero Server • BYOK)
+                 (Direct Encrypted API Handshake • 27 Invariants • BYOK)
 ```
 
 ### ⚡ Kavach AI Core Highlights:
+- ⚡ **37+ Frontier AI Model Hub**: Pre-indexed frontier models spanning Google Gemini (2.5 Pro/Flash, 2M ctx), Anthropic Claude (3.7 Sonnet, 3.5 Sonnet/Haiku), OpenAI (o3-mini, o1, GPT-4o), DeepSeek (R1 671B, V3), xAI Grok (Grok 2, Grok Vision), Meta Llama (3.3 70B, 405B), Mistral, Alibaba Qwen (Coder 32B, QwQ), Perplexity Sonar, and Cohere.
+- 🌐 **Zero-Code Live Dynamic Model Auto-Discovery**: Automatically discovers newly released models worldwide via global public model registries (OpenRouter & Google AI Studio) and integrates them with zero code changes.
+- 🔀 **Omniscient Smart AI Router**: Analyzes prompt intent (formal proofs, code exploits, interview dialogue, resume bullets, live search, 50+ file bundles) and dynamically routes to the highest-performing model.
 - 🧠 **Universal Personal Assistant ("Ask Anything")**: Unconstrained technical reasoning copilot for exploit development, complex systems architecture, code debugging, and strategic planning.
 - 🎯 **Targeted Interview Simulator**: Grounded directly in verified resume achievements and target JD; delivers live, tailored answers with Short / Medium / Long response pacing.
-- ⚡ **Autonomous Anti-Hallucination Job Hunter**: Continuous real-time scanning over 680+ top global tech & cybersecurity employers. Zero fake links — verified via Google Search grounding metadata (`[{ googleSearch: {} }]`).
-- 🛂 **Client-Side Visa Sponsorship Filter**: Automatic rejection of non-sponsored international jobs; fuzzy deduplication across scan cycles.
-- 🌓 **Dual Aesthetic Engine**: High outdoor-contrast Sunlight Light Theme + Obsidian Midnight Dark Theme.
-- 📎 **Multimodal Staging**: Multi-file attachment, clipboard screenshot paste (`Ctrl + V`), and drag-and-drop.
-- 🌐 **Repository & Source**: [https://pratik-khairnar-sec.github.io/kavach-enterprise/](https://pratik-khairnar-sec.github.io/kavach-enterprise/)
+- ⚡ **Autonomous Anti-Hallucination Job Hunter**: Continuous real-time scanning over 688+ top global tech & cybersecurity employers. Zero fake links — verified via Google Search grounding metadata (`[{ googleSearch: {} }]`).
+- 📎 **50+ Multi-File Staging**: Concurrent parsing of PDF, Word, Excel, code files, and clipboard screenshots (`Ctrl + V`).
+- 🌐 **Executive Portal & Live Demo**: [https://pratik-khairnar-sec.github.io/kavach-enterprise/](https://pratik-khairnar-sec.github.io/kavach-enterprise/)
 
 ---
 
@@ -145,7 +145,7 @@ My primary mission is architecting high-velocity, zero-false-positive security v
 | Framework / Tool | Core Functionality | Version | Category | Interactive Demo | Repository |
 |---|---|---|---|---|---|
 | **AUTHENTIX Enterprise** | Burp Suite Montoya Security Suite: 27 Invariants, 28 Secret Rules, 12 ATO Chains | `v2.1.0` | 🏆 Flagship | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/authentix-enterprise/) | [`authentix-enterprise`](https://github.com/pratik-khairnar-sec/authentix-enterprise) |
-| **Kavach AI Enterprise** | Autonomous Career Copilot, 28+ Frontier AI Models & Smart Auto-Router | `v2.2.0` | 🛡️ Flagship AI | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/kavach-enterprise/) | [`kavach-enterprise`](https://github.com/pratik-khairnar-sec/kavach-enterprise) |
+| **Kavach AI Enterprise** | Autonomous Career Copilot, 37+ Frontier AI Models, Smart Auto-Router & Zero-Code Discovery | `v2.2.0` | 🛡️ Flagship AI | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/kavach-enterprise/) | [`kavach-enterprise`](https://github.com/pratik-khairnar-sec/kavach-enterprise) |
 | **Cybersecurity Portfolio & Showcase** | Official Interactive Cybersecurity Portfolio & VAPT Engineer Showcase | `Live` | 🌐 Live Portfolio | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/portfolio/) | [`portfolio`](https://github.com/pratik-khairnar-sec/portfolio) |
 | **ReconArsenal** | Unified OSINT & Passive Threat Surface Suite (Wayback CDX, OTX, Passive DNS, Dorks) | `v1.0.0` | ⚡ Core Suite | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/recon-arsenal/) | [`recon-arsenal`](https://github.com/pratik-khairnar-sec/recon-arsenal) |
 | **Reflectra** | Context-aware XSS scanner with Headless Chrome verification & DOM-sink analysis | `v7.0.0` | 🛡️ AppSec | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/Reflectra/) | [`Reflectra`](https://github.com/pratik-khairnar-sec/Reflectra) |
