@@ -90,7 +90,6 @@ def format_portfolio_table(repos):
     priority = [
         "authentix-enterprise",
         "portfolio",
-        "recon-arsenal",
         "Reflectra",
         "BlindStrike",
         "wayback-lens",
@@ -114,13 +113,6 @@ def format_portfolio_table(repos):
             "version": "Live",
             "badge": "🌐 Live Portfolio",
             "demo": "https://pratik-khairnar-sec.github.io/portfolio/"
-        },
-        "recon-arsenal": {
-            "title": "ReconArsenal",
-            "desc": "Unified OSINT & Passive Threat Surface Suite (Wayback CDX, OTX, Passive DNS, Dorks)",
-            "version": "v1.0.0",
-            "badge": "⚡ Core Suite",
-            "demo": "https://pratik-khairnar-sec.github.io/recon-arsenal/"
         },
         "Reflectra": {
             "title": "Reflectra",
