@@ -113,6 +113,7 @@ My primary mission is architecting high-velocity, zero-false-positive security v
 | **EndpointFinder** | Autonomous Chrome Extension for deep client-side JS endpoint & parameter extraction | `v1.0.0` | 🔎 Recon | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/endpoint-finder-extension/) | [`endpoint-finder-extension`](https://github.com/pratik-khairnar-sec/endpoint-finder-extension) |
 | **ReconForge** | Master Bug Bounty & VAPT Multi-Target Framework with 33 Phases & 13,600+ Dorks | `v3.0.0` | ⚡ Framework | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/ReconForge/) | [`ReconForge`](https://github.com/pratik-khairnar-sec/ReconForge) |
 | **CORSair** | Cross-Origin Request Security Analysis & PoC Engine with automated exploitation staging | `v3.0.0` | 🛡️ AppSec | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/CORSair/) | [`CORSair`](https://github.com/pratik-khairnar-sec/CORSair) |
+| **Recon Arsenal** | Unified Passive OSINT & Attack Surface Intelligence Suite with Instant Telegram Alerts. Strictly for educational & defensive security research. | `Latest` | 🔎 OSINT | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/recon-arsenal/) | [`recon-arsenal`](https://github.com/pratik-khairnar-sec/recon-arsenal) |
 <!-- END_PORTFOLIO -->
 
 ---
