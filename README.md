@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=VAPT+Engineer+%26+Web+Application+Penetration+Tester;Actively+Seeking+Roles+%E2%80%A2+Immediate+Joining;Creator+of+AUTHENTIX+v2.1.0%2C+BlindStrike+%26+Reflectra;Burp+Suite+Montoya+API+Extension+Engineering;Empirical+Zero-False-Positive+Security+Verification" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=VAPT+Engineer+%26+Web+Application+Penetration+Tester;Actively+Seeking+Roles+%E2%80%A2+Immediate+Joining;Creator+of+AUTHENTIX+v2.1.0%2C+BlindStrike+%26+Reflectra;Burp+Suite+Montoya+API+Extension+Engineering;Web+Application+Penetration+Testing+%26+Security+Tooling" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@
 
 I am a **VAPT Engineer**, **Cyber Security Researcher**, and **Security Tool Developer** from India. 
 
-My primary mission is architecting high-velocity, zero-false-positive security verification frameworks that replace noisy, outdated scanners with surgical precision. Every tool I publish features clean architectures, zero unnecessary dependencies, automated Telegram alerting, and dedicated interactive web triage environments.
+My primary focus is developing high-velocity offensive security tooling, Burp Suite Montoya API extensions, and rigorous web application penetration testing frameworks. Every tool I publish features clean architectures, zero unnecessary dependencies, automated Telegram alerting, and dedicated interactive web triage environments.
 
 - 🛡️ **Core Domains**: Web Application Penetration Testing (VAPT), Burp Suite Extension Development (Montoya API), OSINT Attack Surface Discovery, Blind SQLi Detection, Context-Aware XSS Analysis, and Chrome Extension Security Tooling.
 - 🎯 **Philosophy**: Strict mathematical baselining, empirical latency calibration, headless browser confirmation, and defensive research.
