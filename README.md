@@ -28,8 +28,10 @@
 > [!IMPORTANT]
 > ### 🎯 Open to Work — Available for VAPT & Penetration Testing Roles
 > - **Target Roles**: **VAPT Engineer**, **Web Application Penetration Tester**, **Junior Security Consultant**, **Application Security (AppSec) Engineer**.
-> - **Availability**: Immediate Joining • Fresh Graduate / Entry-Level.
-> - **Hands-on Competencies**: Manual web application penetration testing (OWASP Top 10, ASVS), PortSwigger Burp Suite Montoya API extension development, Python security tooling, Digital Forensics & live cybercrime incident investigation.
+> - **Availability**: **Immediate Joining Available** • B.Tech Cyber Security & Forensics (**2023 — 2027**, Final Year).
+> - **Education**: B.Tech CSE (Cyber Security & Forensics), Sandip University, Nashik (2023 — 2027) • CGPA: 7.42/10.
+> - **Industry Certifications**: Certified Ethical Hacker (**CEH v13**) &bull; Cisco Certified Network Associate (**CCNA**).
+> - **Hands-on Experience**: Cyber Crime & Digital Forensics Intern (**Cyber Police Station, Nashik**) &bull; Junior Penetration Tester (**GROOTT Services**).
 > - **Interactive Portfolio**: 👉 **[https://pratik-khairnar-sec.github.io/portfolio/](https://pratik-khairnar-sec.github.io/portfolio/)**
 > - **Verified Network**: [LinkedIn](https://linkedin.com/in/pratik-khairnar-sec/) • [X / Twitter (@PratikSec)](https://x.com/PratikSec) • [Medium (@pratik-khairnar-sec)](https://pratik-khairnar-sec.medium.com/) • **Discord**: `pratik.khairnar.sec` • [Email](mailto:pratik.khairnar.sec@gmail.com)
 
@@ -111,7 +113,6 @@ My primary mission is architecting high-velocity, zero-false-positive security v
 | **EndpointFinder** | Autonomous Chrome Extension for deep client-side JS endpoint & parameter extraction | `v1.0.0` | 🔎 Recon | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/endpoint-finder-extension/) | [`endpoint-finder-extension`](https://github.com/pratik-khairnar-sec/endpoint-finder-extension) |
 | **ReconForge** | Master Bug Bounty & VAPT Multi-Target Framework with 33 Phases & 13,600+ Dorks | `v3.0.0` | ⚡ Framework | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/ReconForge/) | [`ReconForge`](https://github.com/pratik-khairnar-sec/ReconForge) |
 | **CORSair** | Cross-Origin Request Security Analysis & PoC Engine with automated exploitation staging | `v3.0.0` | 🛡️ AppSec | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/CORSair/) | [`CORSair`](https://github.com/pratik-khairnar-sec/CORSair) |
-| **Recon Arsenal** | Unified Passive OSINT & Attack Surface Intelligence Suite with Instant Telegram Alerts. Strictly for educational & defensive security research. | `Latest` | 🔎 OSINT | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/recon-arsenal/) | [`recon-arsenal`](https://github.com/pratik-khairnar-sec/recon-arsenal) |
 <!-- END_PORTFOLIO -->
 
 ---
