@@ -118,11 +118,16 @@ My primary mission is architecting high-velocity, zero-false-positive security v
 
 ## 📝 Security Research & Technical Writeups
 
-In-depth technical architecture breakdowns, vulnerability research, and security engineering writeups published on **[Medium (@pratik-khairnar-sec)](https://pratik-khairnar-sec.medium.com/)**:
+In-depth technical architecture breakdowns, empirical vulnerability research, and security engineering writeups published on **[Medium (@pratik-khairnar-sec)](https://pratik-khairnar-sec.medium.com/)** and **[X (@PratikSec)](https://x.com/PratikSec)**:
 
-- 🛡️ **[Inside AUTHENTIX: Building an Automated BOLA & IDOR Detection Engine for Burp Suite using the Montoya API](https://pratik-khairnar-sec.medium.com/)** — Why legacy HTTP proxies fail at access control, deterministic finite-state automation, cross-actor matrix verification, and 27 formal security invariants.
-- ⚡ **[Beyond Latency: How Empirical Baseline Calibration Eliminates False Positives in Time-Based Blind SQLi](https://pratik-khairnar-sec.medium.com/)** — Network jitter mitigation, baseline timing calibration, and mathematical validation in BlindStrike v7.0.0.
-- 🔬 **[Context-Aware Reflected XSS: Why Regex Scanners Fail and How Headless Verification Fixes It](https://pratik-khairnar-sec.medium.com/)** — Context-escaping heuristics, DOM-sink analysis, and headless Chrome verification in Reflectra.
+- 🔥 **[ReconForge v3: Automating 33 Phases of Bug Bounty Reconnaissance, Zero-Install, 13,600+ Search Queries](https://pratik-khairnar-sec.medium.com/reconforge-v3-automating-33-phases-of-bug-bounty-reconnaissance-zero-install-13-600-search-7c0e353a709b)** — Comprehensive architectural breakdown of the 100% client-side reconnaissance operating system. • **[Official X Thread](https://x.com/PratikSec/status/2108584870293451190)**
+- 🏆 **[Inside AUTHENTIX v2.1.0: Architecting a Deterministic Burp Suite Montoya Extension with 27 Invariants to Eliminate BOLA & IDOR Guesswork](https://pratik-khairnar-sec.medium.com/)** — Why legacy HTTP proxies fail at access control, deterministic finite-state automation (DFA), cross-actor matrix verification, and Java 17 non-blocking worker pools.
+- 🎓 **[Exposing the Fallacy of HTTP Referrer Restrictions in Cloud APIs: Auditing 21 Google Cloud Endpoints & Quantifying Metered Cloud Drain](https://pratik-khairnar-sec.medium.com/)** — Final Year Academic Capstone (guided by Prof. Tushar Kaloge) exposing header spoofing, Shannon entropy filtering, and Denial-of-Wallet (DoW) financial drain modeling.
+- ⚡ **[Beyond Latency: Eliminating False Positives in Time-Based Blind SQLi with Empirical 3σ Baselining](https://pratik-khairnar-sec.medium.com/)** — Moving beyond scalar timers: empirical latency baselining, IQR outlier thresholds, and linear time-scaling confirmation in BlindStrike v7.0.
+- 🛡️ **[Context-Aware Reflected XSS: Why Regex Scanners Fail and How Reflectra Achieves 0% False Positives](https://pratik-khairnar-sec.medium.com/)** — Proving that string reflection does not equal JavaScript execution, syntactic context classification, and real Headless Chrome native dialog trapping.
+- 🌐 **[Cross-Origin Resource Sharing Exploitation: Why Developers Get CORS Wrong and How CORSair Weaponizes Misconfigurations](https://pratik-khairnar-sec.medium.com/)** — The 4 deadly CORS flaw classes, null-origin sandboxed iframe exploits, and zero-install client-side PoC weaponization.
+- 🎯 **[Inside Endpoint Hunter: Mining Hidden API Routes and Eliminating Regex Noise in Single-Page Applications](https://pratik-khairnar-sec.medium.com/)** — Chrome Manifest V3 route mining, AST-aware false-positive suppression, and kinematic stealth crawling.
+- 📜 **[Re-Engineering Wayback Machine Recon: Streaming 100,000+ CDX Records, Autonomous Risk Heuristics & Live Verification](https://pratik-khairnar-sec.medium.com/)** — Non-blocking `ReadableStream` chunk processing, 3-tier risk scoring, and asynchronous multi-worker HTTP 200 probers in Wayback Lens.
 
 ---
 
