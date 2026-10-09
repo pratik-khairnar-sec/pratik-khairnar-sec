@@ -17,6 +17,9 @@
   <a href="https://linkedin.com/in/pratik-khairnar-sec/"><img src="https://img.shields.io/badge/LinkedIn-pratik--khairnar--sec-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://x.com/PratikSec"><img src="https://img.shields.io/badge/X%20(Twitter)-%40PratikSec-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"></a>
   <a href="https://pratik-khairnar-sec.medium.com/"><img src="https://img.shields.io/badge/Medium-pratik--khairnar--sec-12100e?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="https://t.me/pratik_khairnar_sec"><img src="https://img.shields.io/badge/Telegram-%40pratik__khairnar__sec-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://www.instagram.com/pratik.khairnar.sec/"><img src="https://img.shields.io/badge/Instagram-%40pratik.khairnar.sec-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.youtube.com/@pratik-khairnar-sec"><img src="https://img.shields.io/badge/YouTube-%40pratik--khairnar--sec-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
   <a href="https://discord.com/users/1531910259080167494"><img src="https://img.shields.io/badge/Discord-pratik.khairnar.sec-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
   <a href="mailto:pratik.khairnar.sec@gmail.com"><img src="https://img.shields.io/badge/Email-pratik.khairnar.sec%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Contact"></a>
 </p>
@@ -33,7 +36,7 @@
 > - **Industry Certifications**: Certified Ethical Hacker (**CEH v13**) &bull; Cisco Certified Network Associate (**CCNA**).
 > - **Hands-on Experience**: Cyber Crime & Digital Forensics Intern (**Cyber Police Station, Nashik**) &bull; Junior Penetration Tester (**GROOTT Services**).
 > - **Interactive Portfolio**: 👉 **[https://pratik-khairnar-sec.github.io/portfolio/](https://pratik-khairnar-sec.github.io/portfolio/)**
-> - **Verified Network**: [LinkedIn](https://linkedin.com/in/pratik-khairnar-sec/) • [X / Twitter (@PratikSec)](https://x.com/PratikSec) • [Medium (@pratik-khairnar-sec)](https://pratik-khairnar-sec.medium.com/) • [Discord Profile](https://discord.com/users/1531910259080167494) (`pratik.khairnar.sec`) • [Email](mailto:pratik.khairnar.sec@gmail.com)
+> - **Verified Network**: [LinkedIn](https://linkedin.com/in/pratik-khairnar-sec/) • [X / Twitter (@PratikSec)](https://x.com/PratikSec) • [Medium (@pratik-khairnar-sec)](https://pratik-khairnar-sec.medium.com/) • [Telegram (@pratik_khairnar_sec)](https://t.me/pratik_khairnar_sec) • [Instagram (@pratik.khairnar.sec)](https://www.instagram.com/pratik.khairnar.sec/) • [YouTube (@pratik-khairnar-sec)](https://www.youtube.com/@pratik-khairnar-sec) • [Discord](https://discord.com/users/1531910259080167494) • [Email](mailto:pratik.khairnar.sec@gmail.com)
 
 I am a **VAPT Engineer**, **Cyber Security Researcher**, and **Security Tool Developer** from India. 
 
