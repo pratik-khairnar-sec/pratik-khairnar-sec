@@ -17,7 +17,7 @@
   <a href="https://linkedin.com/in/pratik-khairnar-sec/"><img src="https://img.shields.io/badge/LinkedIn-pratik--khairnar--sec-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://x.com/PratikSec"><img src="https://img.shields.io/badge/X%20(Twitter)-%40PratikSec-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"></a>
   <a href="https://pratik-khairnar-sec.medium.com/"><img src="https://img.shields.io/badge/Medium-pratik--khairnar--sec-12100e?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
-  <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-pratik.khairnar.sec-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://discord.com/users/1531910259080167494"><img src="https://img.shields.io/badge/Discord-pratik.khairnar.sec-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
   <a href="mailto:pratik.khairnar.sec@gmail.com"><img src="https://img.shields.io/badge/Email-pratik.khairnar.sec%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Contact"></a>
 </p>
 
@@ -33,7 +33,7 @@
 > - **Industry Certifications**: Certified Ethical Hacker (**CEH v13**) &bull; Cisco Certified Network Associate (**CCNA**).
 > - **Hands-on Experience**: Cyber Crime & Digital Forensics Intern (**Cyber Police Station, Nashik**) &bull; Junior Penetration Tester (**GROOTT Services**).
 > - **Interactive Portfolio**: 👉 **[https://pratik-khairnar-sec.github.io/portfolio/](https://pratik-khairnar-sec.github.io/portfolio/)**
-> - **Verified Network**: [LinkedIn](https://linkedin.com/in/pratik-khairnar-sec/) • [X / Twitter (@PratikSec)](https://x.com/PratikSec) • [Medium (@pratik-khairnar-sec)](https://pratik-khairnar-sec.medium.com/) • **Discord**: `pratik.khairnar.sec` • [Email](mailto:pratik.khairnar.sec@gmail.com)
+> - **Verified Network**: [LinkedIn](https://linkedin.com/in/pratik-khairnar-sec/) • [X / Twitter (@PratikSec)](https://x.com/PratikSec) • [Medium (@pratik-khairnar-sec)](https://pratik-khairnar-sec.medium.com/) • [Discord Profile](https://discord.com/users/1531910259080167494) (`pratik.khairnar.sec`) • [Email](mailto:pratik.khairnar.sec@gmail.com)
 
 I am a **VAPT Engineer**, **Cyber Security Researcher**, and **Security Tool Developer** from India. 
 
@@ -113,22 +113,33 @@ My primary focus is developing high-velocity offensive security tooling, Burp Su
 | **EndpointFinder** | Autonomous Chrome Extension for deep client-side JS endpoint & parameter extraction | `v1.0.0` | 🔎 Recon | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/endpoint-finder-extension/) | [`endpoint-finder-extension`](https://github.com/pratik-khairnar-sec/endpoint-finder-extension) |
 | **ReconForge** | Master Bug Bounty & VAPT Multi-Target Framework with 33 Phases & 13,600+ Dorks | `v3.0.0` | ⚡ Framework | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/ReconForge/) | [`ReconForge`](https://github.com/pratik-khairnar-sec/ReconForge) |
 | **CORSair** | Cross-Origin Request Security Analysis & PoC Engine with automated exploitation staging | `v3.0.0` | 🛡️ AppSec | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/CORSair/) | [`CORSair`](https://github.com/pratik-khairnar-sec/CORSair) |
-| **Recon Arsenal** | Unified Passive OSINT & Attack Surface Intelligence Suite with Instant Telegram Alerts. Strictly for educational & defensive security research. | `Latest` | 🔎 OSINT | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/recon-arsenal/) | [`recon-arsenal`](https://github.com/pratik-khairnar-sec/recon-arsenal) |
 <!-- END_PORTFOLIO -->
 
 ---
 
-## 📝 Security Research & Technical Writeups
+## 📝 Security Research & Technical Publications
 
-In-depth technical architecture breakdowns, empirical vulnerability research, and security engineering writeups published on **[Medium (@pratik-khairnar-sec)](https://pratik-khairnar-sec.medium.com/)** and **[X (@PratikSec)](https://x.com/PratikSec)**:
+<p align="center">
+  <a href="https://pratik-khairnar-sec.medium.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-Read%20Technical%20Articles-12100e?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Articles">
+  </a>
+  <a href="https://x.com/PratikSec" target="_blank">
+    <img src="https://img.shields.io/badge/X%20(Twitter)-Follow%20%40PratikSec-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Twitter">
+  </a>
+  <a href="https://discord.com/users/1531910259080167494" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-Connect%20on%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+</p>
 
-- 🔥 **[ReconForge v3: Automating 33 Phases of Bug Bounty Reconnaissance, Zero-Install, 13,600+ Search Queries](https://pratik-khairnar-sec.medium.com/reconforge-v3-automating-33-phases-of-bug-bounty-reconnaissance-zero-install-13-600-search-7c0e353a709b)** — Comprehensive architectural breakdown of the 100% client-side reconnaissance operating system. • **[Official X Thread](https://x.com/PratikSec/status/2108584870293451190)**
-- 🏆 **[Inside AUTHENTIX v2.1.0: Architecting a Deterministic Burp Suite Montoya Extension with 27 Invariants to Eliminate BOLA & IDOR Guesswork](https://pratik-khairnar-sec.medium.com/)** — Why legacy HTTP proxies fail at access control, deterministic finite-state automation (DFA), cross-actor matrix verification, and Java 17 non-blocking worker pools.
-- ⚡ **[Beyond Latency: Eliminating False Positives in Time-Based Blind SQLi with Empirical 3σ Baselining](https://pratik-khairnar-sec.medium.com/)** — Moving beyond scalar timers: empirical latency baselining, IQR outlier thresholds, and linear time-scaling confirmation in BlindStrike v7.0.
-- 🛡️ **[Context-Aware Reflected XSS: Why Regex Scanners Fail and How Reflectra Achieves 0% False Positives](https://pratik-khairnar-sec.medium.com/)** — Proving that string reflection does not equal JavaScript execution, syntactic context classification, and real Headless Chrome native dialog trapping.
-- 🌐 **[Cross-Origin Resource Sharing Exploitation: Why Developers Get CORS Wrong and How CORSair Weaponizes Misconfigurations](https://pratik-khairnar-sec.medium.com/)** — The 4 deadly CORS flaw classes, null-origin sandboxed iframe exploits, and zero-install client-side PoC weaponization.
-- 🎯 **[Inside Endpoint Hunter: Mining Hidden API Routes and Eliminating Regex Noise in Single-Page Applications](https://pratik-khairnar-sec.medium.com/)** — Chrome Manifest V3 route mining, AST-aware false-positive suppression, and kinematic stealth crawling.
-- 📜 **[Re-Engineering Wayback Machine Recon: Streaming 100,000+ CDX Records, Autonomous Risk Heuristics & Live Verification](https://pratik-khairnar-sec.medium.com/)** — Non-blocking `ReadableStream` chunk processing, 3-tier risk scoring, and asynchronous multi-worker HTTP 200 probers in Wayback Lens.
+### 🌟 Featured Whitepaper & Architectural Breakdown
+
+> ### 🔥 [ReconForge v3: Automating 33 Phases of Bug Bounty Reconnaissance, Zero-Install, 13,600+ Search Queries](https://pratik-khairnar-sec.medium.com/reconforge-v3-automating-33-phases-of-bug-bounty-reconnaissance-zero-install-13-600-search-7c0e353a709b)
+>
+> An architectural deep dive into designing a 100% client-side, zero-install reconnaissance operating system. Explores recursive query expansion across 33 offensive testing phases, client-side state engines, dynamic tokenization, and multi-dork attack surface analysis.
+>
+> 📖 **[Read Full Whitepaper on Medium](https://pratik-khairnar-sec.medium.com/reconforge-v3-automating-33-phases-of-bug-bounty-reconnaissance-zero-install-13-600-search-7c0e353a709b)** &bull; 🧵 **[Official Technical Thread on X (@PratikSec)](https://x.com/PratikSec/status/2108584870293451190)**
+
+*In-depth technical architecture breakdowns, empirical vulnerability research, and security engineering writeups covering Burp Suite Montoya API extensions, state-machine invariants, and web penetration testing methodologies are published regularly on **[Medium (@pratik-khairnar-sec)](https://pratik-khairnar-sec.medium.com/)** and **[X (@PratikSec)](https://x.com/PratikSec)**.*
 
 ---
 

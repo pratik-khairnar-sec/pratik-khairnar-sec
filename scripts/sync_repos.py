@@ -178,8 +178,11 @@ def format_portfolio_table(repos):
     # 2. Dynamically process ANY future or newly created public repositories
     for repo in repos:
         repo_name_lower = repo["name"].lower()
-        # Skip the profile README repository itself and already added repos or forks
-        if repo_name_lower == PROFILE_REPO.lower() or repo_name_lower in seen or repo.get("fork"):
+        # Skip profile repo, duplicates, forks, archived tools, and strictly private/legacy repos
+        if (repo_name_lower == PROFILE_REPO.lower() or 
+            repo_name_lower in seen or 
+            repo.get("fork") or 
+            repo_name_lower in ["recon-arsenal", "codesentinel"]):
             continue
             
         seen.add(repo_name_lower)
