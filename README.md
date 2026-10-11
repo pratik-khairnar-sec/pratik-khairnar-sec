@@ -118,6 +118,11 @@ My primary focus is developing high-velocity offensive security tooling, Burp Su
 | **CORSair** | Cross-Origin Request Security Analysis & PoC Engine with automated exploitation staging | `v3.0.0` | 🛡️ AppSec | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/CORSair/) | [`CORSair`](https://github.com/pratik-khairnar-sec/CORSair) |
 <!-- END_PORTFOLIO -->
 
+### 🔒 Proprietary & Private Security Repositories
+| Framework / Tool | Core Functionality | Version | Classification | Repository Status |
+|---|---|---|---|---|
+| **ReconArsenal** | Automated multi-engine attack surface recon & OSINT vulnerability triage pipeline | `v1.0.0` | 🔒 Private Suite | `🔒 Private Repository` (Confidential / Available upon inquiry) |
+
 ---
 
 ## 📝 Security Research & Technical Publications
