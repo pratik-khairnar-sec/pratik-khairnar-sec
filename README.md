@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="mailto:pratik.khairnar.sec@gmail.com"><img src="https://img.shields.io/badge/Open%20To%20Work-VAPT%20Engineer%20%7C%20Pentester-10b981?style=for-the-badge&logo=target&logoColor=white" alt="Hiring Status"></a>
-  <a href="https://pratik-khairnar-sec.github.io/portfolio/"><img src="https://img.shields.io/badge/Live%20Portfolio-Interactive%20Showcase-38bdf8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Portfolio"></a>
+  <a href="https://pratikkhairnarsec.web.app/"><img src="https://img.shields.io/badge/Live%20Portfolio-Interactive%20Showcase-38bdf8?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Portfolio"></a>
   <a href="https://pratik-khairnar-sec.github.io/authentix-enterprise/"><img src="https://img.shields.io/badge/AUTHENTIX-Enterprise%20Portal-c8a96e?style=for-the-badge&logo=shield&logoColor=white" alt="AUTHENTIX"></a>
   <a href="https://github.com/pratik-khairnar-sec"><img src="https://img.shields.io/badge/Security%20Suites-7%20Production%20Tools-94a3b8?style=for-the-badge&logo=github&logoColor=white" alt="Suites"></a>
 </p>
@@ -35,7 +35,7 @@
 > - **Education**: B.Tech CSE (Cyber Security & Forensics), Sandip University, Nashik (2023 — 2027) • CGPA: 7.42/10.
 > - **Industry Certifications**: Certified Ethical Hacker (**CEH v13**) &bull; Cisco Certified Network Associate (**CCNA**).
 > - **Hands-on Experience**: Cyber Crime & Digital Forensics Intern (**Cyber Police Station, Nashik**) &bull; Junior Penetration Tester (**GROOTT Services**).
-> - **Interactive Portfolio**: 👉 **[https://pratik-khairnar-sec.github.io/portfolio/](https://pratik-khairnar-sec.github.io/portfolio/)**
+> - **Interactive Portfolio**: 👉 **[https://pratikkhairnarsec.web.app/](https://pratikkhairnarsec.web.app/)**
 > - **Verified Network**: [LinkedIn](https://linkedin.com/in/pratik-khairnar-sec/) • [X / Twitter (@PratikSec)](https://x.com/PratikSec) • [Medium (@pratik-khairnar-sec)](https://pratik-khairnar-sec.medium.com/) • [Telegram (@pratik_khairnar_sec)](https://t.me/pratik_khairnar_sec) • [Instagram (@pratik.khairnar.sec)](https://www.instagram.com/pratik.khairnar.sec/) • [YouTube (@pratik-khairnar-sec)](https://www.youtube.com/@pratik-khairnar-sec) • [Discord](https://discord.com/users/1531910259080167494) • [Email](mailto:pratik.khairnar.sec@gmail.com)
 
 I am a **VAPT Engineer**, **Cyber Security Researcher**, and **Security Tool Developer** from India. 
@@ -109,7 +109,7 @@ My primary focus is developing high-velocity offensive security tooling, Burp Su
 | Framework / Tool | Core Functionality | Version | Category | Interactive Demo | Repository |
 |---|---|---|---|---|---|
 | **AUTHENTIX Enterprise** | Burp Suite Montoya Security Suite: 27 Invariants, 28 Secret Rules, 12 ATO Chains | `v2.1.0` | 🏆 Flagship | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/authentix-enterprise/) | [`authentix-enterprise`](https://github.com/pratik-khairnar-sec/authentix-enterprise) |
-| **Cybersecurity Portfolio & Showcase** | Official Interactive Cybersecurity Portfolio & VAPT Engineer Showcase | `Live` | 🌐 Live Portfolio | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/portfolio/) | [`portfolio`](https://github.com/pratik-khairnar-sec/portfolio) |
+| **Cybersecurity Portfolio & Showcase** | Official Interactive Cybersecurity Portfolio & VAPT Engineer Showcase | `Live` | 🌐 Live Portfolio | [🌐 Live Demo](https://pratikkhairnarsec.web.app/) | [`portfolio`](https://github.com/pratik-khairnar-sec/portfolio) |
 | **Reflectra** | Context-aware XSS scanner with Headless Chrome verification & DOM-sink analysis | `v7.0.0` | 🛡️ AppSec | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/Reflectra/) | [`Reflectra`](https://github.com/pratik-khairnar-sec/Reflectra) |
 | **BlindStrike** | Time-Based & Boolean Blind SQLi framework with baseline latency calibration | `v7.0.0` | 🛡️ AppSec | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/BlindStrike/) | [`BlindStrike`](https://github.com/pratik-khairnar-sec/BlindStrike) |
 | **WaybackLens** | High-Performance Wayback Machine CDX Recon & Triage Chrome Extension (Manifest V3) | `v1.0.0` | 🔎 OSINT | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/wayback-lens/) | [`wayback-lens`](https://github.com/pratik-khairnar-sec/wayback-lens) |
