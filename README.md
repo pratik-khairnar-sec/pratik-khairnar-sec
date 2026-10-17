@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=880&lines=VAPT+Engineer+%7C+Web+Application+Penetration+Tester;Certified+Ethical+Hacker+(CEH+v13)+%E2%80%A2+CCNA+Certified;OWASP+Top+10+(2021)+%E2%80%A2+WSTG+v4.2+%E2%80%A2+API+Security+(BOLA%2FIDOR);Creator+of+AUTHENTIX+v2.1.0%2C+BlindStrike+%26+Reflectra;Immediate+Joining+%E2%80%A2+Open+to+Full-Time+AppSec+%26+VAPT+Roles" alt="Pratik Khairnar Typing Headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=880&lines=VAPT+Engineer+%7C+Web+Application+Penetration+Tester;Certified+Ethical+Hacker+(CEH+v13)+%E2%80%A2+CCNA+Certified;OWASP+Top+10+(2021)+%E2%80%A2+WSTG+v4.2+%E2%80%A2+API+Security+(BOLA%2FIDOR);Creator+of+AUTHENTIX+v3.0.0%2C+BlindStrike+%26+Reflectra;Immediate+Joining+%E2%80%A2+Open+to+Full-Time+AppSec+%26+VAPT+Roles" alt="Pratik Khairnar Typing Headline" />
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@
 > - **Verified Certifications:** Certified Ethical Hacker (**CEH v13** | EC-Council Exam ID: `ECC8042517936`) • Cisco Certified Network Associate (**CCNA**).
 > - **Education:** Bachelor of Technology (**B.Tech**) in Computer Science & Engineering (**Cyber Security & Forensics**), Sandip University, Nashik (2023 — 2027) • **CGPA: 7.42 / 10**.
 > - **Operational Experience:** Junior Penetration Tester (**GROOTT Services**) • Cyber Crime & Digital Forensics Intern (**Cyber Police Station, Nashik Police Commissionerate**).
-> - **Tooling Architecture:** Native **Burp Suite Montoya API** Extension Developer (Java 17/21) • Author of **AUTHENTIX Enterprise v2.1.0**, **Reflectra v7.0.0**, and **BlindStrike v7.0.0**.
+> - **Tooling Architecture:** Native **Burp Suite Montoya API** Extension Developer (Java 17/21) • Author of **AUTHENTIX Enterprise v3.0.0**, **Reflectra v7.0.0**, and **BlindStrike v7.0.0**.
 > - **Methodology Compliance:** **OWASP Top 10 (2021)**, **OWASP API Security Top 10 (2023)**, **OWASP WSTG v4.2**, **OWASP ASVS v4.0**, **NIST SP 800-115**, **CVSS v3.1** Severity Scoring.
 > - **Interactive Showcase:** 🌐 **[https://pratikkhairnarsec.web.app/](https://pratikkhairnarsec.web.app/)**
 > - **Direct Reach:** ✉️ **[pratik.khairnar.sec@gmail.com](mailto:pratik.khairnar.sec@gmail.com)** • 📞 **[+91 87999 81052](tel:+918799981052)**
@@ -111,14 +111,14 @@ Having executed commercial vulnerability assessments across multi-tenant applica
 
 ---
 
-## 🏆 Flagship Enterprise Suite: AUTHENTIX v2.1.0
+## 🏆 Flagship Enterprise Suite: AUTHENTIX v3.0.0
 
 > **Next-Generation Authentication, IDOR/BOLA & Secret Analysis Extension for Burp Suite**  
 > *(Engineered on PortSwigger Montoya API • Java 17/21 • Deterministic Finite-State Automaton)*
 
 <p align="center">
   <a href="https://pratik-khairnar-sec.github.io/authentix-enterprise/" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Launch%20Interactive%20Enterprise%20Portal-AUTHENTIX%20v2.1.0-c8a96e?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Launch Portal">
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90%20Launch%20Interactive%20Enterprise%20Portal-AUTHENTIX%20v3.0.0-c8a96e?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Launch Portal">
   </a>
 </p>
 
@@ -140,25 +140,26 @@ Having executed commercial vulnerability assessments across multi-tenant applica
          ┌─────────────────────────┴─────────────────────────┐
          ▼                                                   ▼
 [ InvariantEngine.java ]                        [ FileAnalyzerEngine.java ]
- (27 Formal Invariants)                          (28 Secret / Logic Rules)
+ (34 Formal Invariants)                          (30+ Secret / Logic Rules)
          │                                                   │
          └─────────────────────────┬─────────────────────────┘
                                    ▼
                       [ AttackPathCorrelator.java ]
-                (Chains Findings into 12 Compound ATO Graphs)
+                (Chains Findings into 16 Compound ATO Graphs)
                                    │
          ┌─────────────────────────┴─────────────────────────┐
          ▼                                                   ▼
 [ Burp Suite Modern UI Tabs ]                       [ Telegram Alerts Push ]
   - Findings & Cross-Actor Matrix                     - Zero UI Latency Async
   - Attack Chains Graph Studio                        - Kali cURL PoC Generator
+  - 3-Way Differential IDOR Engine                    - Soft-200 Filter
 ```
 
 ### ⚡ Technical Capabilities of AUTHENTIX:
-- 🎯 **Cross-Actor IDOR & BOLA Matrix:** Automatically parses sequential and UUID identifiers across multiple authenticated user sessions to identify horizontal and vertical authorization bypasses.
-- 🛡️ **27 Formal State-Machine Invariants:** Deterministic verification of authentication states including OTP replay flaws, session fixation, token Shannon entropy, and structural JWT integrity.
-- 🔬 **28 Secret & Token Detection Rules:** Real-time stream inspection targeting leaked JWT signing keys, AWS, GCP, Azure, OpenAI, Claude, Stripe, GitHub, Firebase, and SendGrid credentials.
-- ⛓️ **12 Compound Attack Chain Rules:** Automatically synthesizes discrete low/medium severity vulnerabilities into actionable Account Takeover (ATO) kill-chain graphs.
+- 🎯 **3-Way Differential IDOR & BOLA Engine:** Automates cross-actor state substitution across 3 concurrent sessions with intelligent Soft-200 / customized error suppression.
+- 🛡️ **34 Formal State-Machine Invariants:** Deterministic verification of authentication states including OTP replay flaws, session fixation, token Shannon entropy, race conditions, and structural JWT integrity.
+- 🔬 **30+ Secret & Token Detection Rules:** Real-time stream inspection targeting leaked JWT signing keys, AWS, GCP, Azure, OpenAI, Claude, Stripe, GitHub, Firebase, and SendGrid credentials.
+- ⛓️ **16 Compound Attack Chain Rules:** Automatically synthesizes discrete low/medium severity vulnerabilities into actionable Account Takeover (ATO) kill-chain graphs.
 - 📱 **Real-Time Mobile Push Dispatcher:** Delivers instant alerts with terminal-ready Kali cURL reproduction commands directly to Telegram bots.
 - 🌐 **Enterprise Documentation & Reports:** 👉 [https://pratik-khairnar-sec.github.io/authentix-enterprise/](https://pratik-khairnar-sec.github.io/authentix-enterprise/)
 
@@ -169,14 +170,14 @@ Having executed commercial vulnerability assessments across multi-tenant applica
 <!-- START_PORTFOLIO -->
 | Framework / Tool | Core Functionality | Version | Category | Interactive Demo | Repository |
 |---|---|---|---|---|---|
-| **AUTHENTIX Enterprise** | Burp Suite Montoya Security Suite: 27 Invariants, 28 Secret Rules, 12 ATO Chains | `v2.1.0` | 🏆 Flagship | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/authentix-enterprise/) | [`authentix-enterprise`](https://github.com/pratik-khairnar-sec/authentix-enterprise) |
-| **Cybersecurity Portfolio & Showcase** | Official Interactive Cybersecurity Portfolio & VAPT Engineer Showcase | `Live` | 🌐 Live Portfolio | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/portfolio/) | [`portfolio`](https://github.com/pratik-khairnar-sec/portfolio) |
+| **AUTHENTIX Enterprise** | Burp Suite Montoya Security Suite: 34 Invariants, 30+ Secret Rules, 16 ATO Chains | `v3.0.0` | 🏆 Flagship | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/authentix-enterprise/) | [`authentix-enterprise`](https://github.com/pratik-khairnar-sec/authentix-enterprise) |
+| **Cybersecurity Showcase** | Official Interactive Cybersecurity Portfolio & VAPT Engineer Showcase | `Live` | 🌐 Portfolio | [🌐 Live Site](https://pratikkhairnarsec.web.app/) | [`portfolio`](https://github.com/pratik-khairnar-sec/portfolio) |
 | **Reflectra** | Context-aware XSS scanner with Headless Chrome verification & DOM-sink analysis | `v7.0.0` | 🛡️ AppSec | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/Reflectra/) | [`Reflectra`](https://github.com/pratik-khairnar-sec/Reflectra) |
 | **BlindStrike** | Time-Based & Boolean Blind SQLi framework with baseline latency calibration | `v7.0.0` | 🛡️ AppSec | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/BlindStrike/) | [`BlindStrike`](https://github.com/pratik-khairnar-sec/BlindStrike) |
+| **ReconForge** | Master Bug Bounty & VAPT reconnaissance workspace with 30 Phases & 52,630+ Dorks | `v4.0` | ⚡ Framework | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/ReconForge/) | [`ReconForge`](https://github.com/pratik-khairnar-sec/ReconForge) |
+| **CORSair** | Cross-Origin Request Security Analysis & PoC Engine with automated exploitation staging | `v3.0.0` | 🛡️ AppSec | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/CORSair/) | [`CORSair`](https://github.com/pratik-khairnar-sec/CORSair) |
 | **WaybackLens** | High-Performance Wayback Machine CDX Recon & Triage Chrome Extension (Manifest V3) | `v1.0.0` | 🔎 OSINT | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/wayback-lens/) | [`wayback-lens`](https://github.com/pratik-khairnar-sec/wayback-lens) |
 | **EndpointFinder** | Autonomous Chrome Extension for deep client-side JS endpoint & parameter extraction | `v1.0.0` | 🔎 Recon | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/endpoint-finder-extension/) | [`endpoint-finder-extension`](https://github.com/pratik-khairnar-sec/endpoint-finder-extension) |
-| **ReconForge** | Master Bug Bounty & VAPT Multi-Target Framework with 33 Phases & 13,600+ Dorks | `v3.0.0` | ⚡ Framework | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/ReconForge/) | [`ReconForge`](https://github.com/pratik-khairnar-sec/ReconForge) |
-| **CORSair** | Cross-Origin Request Security Analysis & PoC Engine with automated exploitation staging | `v3.0.0` | 🛡️ AppSec | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/CORSair/) | [`CORSair`](https://github.com/pratik-khairnar-sec/CORSair) |
 <!-- END_PORTFOLIO -->
 
 ---
