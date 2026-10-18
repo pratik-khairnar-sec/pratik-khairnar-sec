@@ -40,13 +40,13 @@
   <path d="M0 190 Q250 145 500 175 T1000 160" stroke="#06b6d4" stroke-width="2.5" fill="none" opacity="0.35"/>
   <path d="M0 200 Q250 170 500 190 T1000 175" stroke="#10b981" stroke-width="1.8" fill="none" opacity="0.3"/>
 
-  <!-- Top Credential Status Pill -->
-  <g transform="translate(260, 22)">
-    <rect width="480" height="28" rx="14" fill="#0f172a" stroke="#38bdf8" stroke-width="1.2"/>
-    <circle cx="20" cy="14" r="5" fill="#38bdf8">
+  <!-- Top Credential Status Pill (Spacious & Centered with Zero Overflow) -->
+  <g transform="translate(225, 22)">
+    <rect width="550" height="28" rx="14" fill="#0f172a" stroke="#38bdf8" stroke-width="1.2"/>
+    <circle cx="22" cy="14" r="4.5" fill="#38bdf8">
       <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
     </circle>
-    <text x="250" y="19" fill="#e2e8f0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="700" letter-spacing="1.5" text-anchor="middle">
+    <text x="290" y="18.5" fill="#e2e8f0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="700" letter-spacing="1" text-anchor="middle">
       🛡️ CERTIFIED ETHICAL HACKER (CEH v13) • SECURITY TOOL ARCHITECT
     </text>
   </g>
@@ -64,22 +64,22 @@
     Offensive Tooling (Java 17/21 • Python 3) • Law Enforcement Forensics (ISO/IEC 27037) • OWASP Top 10
   </text>
 
-  <!-- Bottom Badges Row -->
-  <g transform="translate(130, 182)">
+  <!-- Bottom Badges Row (Evenly Spaced) -->
+  <g transform="translate(110, 182)">
     <!-- Badge 1: CEH v13 -->
-    <rect x="0" y="0" width="170" height="26" rx="6" fill="#030712" stroke="#dc2626" stroke-width="1"/>
-    <text x="85" y="17" fill="#f87171" font-family="monospace" font-size="10.5" font-weight="700" text-anchor="middle">🛡️ CEH v13 Verified</text>
+    <rect x="0" y="0" width="180" height="26" rx="6" fill="#030712" stroke="#dc2626" stroke-width="1"/>
+    <text x="90" y="17" fill="#f87171" font-family="monospace" font-size="10.5" font-weight="700" text-anchor="middle">🛡️ CEH v13 Verified</text>
     
     <!-- Badge 2: Flagship -->
-    <rect x="185" y="0" width="185" height="26" rx="6" fill="#030712" stroke="#c8a96e" stroke-width="1"/>
-    <text x="277" y="17" fill="#fcd34d" font-family="monospace" font-size="10.5" font-weight="700" text-anchor="middle">🏆 AUTHENTIX Enterprise</text>
+    <rect x="195" y="0" width="195" height="26" rx="6" fill="#030712" stroke="#c8a96e" stroke-width="1"/>
+    <text x="292" y="17" fill="#fcd34d" font-family="monospace" font-size="10.5" font-weight="700" text-anchor="middle">🏆 AUTHENTIX Enterprise</text>
 
     <!-- Badge 3: Aarya AI -->
-    <rect x="385" y="0" width="175" height="26" rx="6" fill="#030712" stroke="#38bdf8" stroke-width="1"/>
-    <text x="472" y="17" fill="#38bdf8" font-family="monospace" font-size="10.5" font-weight="700" text-anchor="middle">🤖 Aarya AI Copilot</text>
+    <rect x="405" y="0" width="180" height="26" rx="6" fill="#030712" stroke="#38bdf8" stroke-width="1"/>
+    <text x="495" y="17" fill="#38bdf8" font-family="monospace" font-size="10.5" font-weight="700" text-anchor="middle">🤖 Aarya AI Copilot</text>
 
     <!-- Badge 4: AppSec -->
-    <rect x="575" y="0" width="175" height="26" rx="6" fill="#030712" stroke="#10b981" stroke-width="1"/>
-    <text x="662" y="17" fill="#34d399" font-family="monospace" font-size="10.5" font-weight="700" text-anchor="middle">⚡ BlindStrike &amp; Reflectra</text>
+    <rect x="600" y="0" width="180" height="26" rx="6" fill="#030712" stroke="#10b981" stroke-width="1"/>
+    <text x="690" y="17" fill="#34d399" font-family="monospace" font-size="10.5" font-weight="700" text-anchor="middle">⚡ BlindStrike &amp; Reflectra</text>
   </g>
 </svg>
