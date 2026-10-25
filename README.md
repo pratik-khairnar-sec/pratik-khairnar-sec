@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=920&lines=Certified+Ethical+Hacker+(CEH+v13)+%E2%80%A2+EC-Council+Verified;Offensive+Security+Tool+Architect+%7C+Burp+Montoya+API+(Java+17%2F21);Creator+of+AUTHENTIX+Enterprise%2C+BlindStrike%2C+Reflectra+%26+Aarya+AI;Web+%26+API+Penetration+Tester+(OWASP+Top+10+%E2%80%A2+WSTG+v4.2+%E2%80%A2+BOLA%2FIDOR);Digital+Forensics+%E2%80%A2+15%2B+Police+Investigations+(ISO%2FIEC+27037)" alt="Pratik Khairnar Typing Headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=920&lines=Certified+Ethical+Hacker+(CEH+v13)+%E2%80%A2+EC-Council+Verified;Offensive+Security+Tool+Architect+%7C+Burp+Montoya+API+(Java+17%2F21);Creator+of+AUTHENTIX+Enterprise%2C+TaintQL%2C+BlindStrike+%26+Reflectra;Web+%26+API+Penetration+Tester+(OWASP+Top+10+%E2%80%A2+WSTG+v4.2+%E2%80%A2+BOLA%2FIDOR);Digital+Forensics+%E2%80%A2+15%2B+Police+Investigations+(ISO%2FIEC+27037)" alt="Pratik Khairnar Typing Headline" />
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@
 > - **Accredited Credentials:** **Certified Ethical Hacker (CEH v13)** (EC-Council Exam ID: `ECC8042517936` • ANSI/ISO/IEC 17024 Accredited) • **Cisco Certified Network Associate (CCNA)** (Cisco Networking Academy).
 > - **Academic Foundation:** Bachelor of Technology (**B.Tech**) in Computer Science & Engineering (**Cyber Security & Forensics**), Sandip University, Nashik (2023 — 2027) • **CGPA: 7.42 / 10**.
 > - **Law Enforcement Operations:** Cyber Crime & Digital Forensics Intern, **Cyber Police Station, Nashik Police Commissionerate** (15+ live cybercrime and financial fraud investigations; ISO/IEC 27037 chain-of-custody).
-> - **Tool Architecture:** Native **Burp Suite Montoya API** Extension Architect (Java 17/21) • Author of **AUTHENTIX Enterprise v2.1.0**, **BlindStrike v7.0.0**, **Reflectra v7.0.0**, **ReconForge v3**, and **Aarya AI Copilot**.
+> - **Tool Architecture:** Native **Burp Suite Montoya API** Extension Architect (Java 17/21) • Author of Flagship **AUTHENTIX Enterprise v2.1.0**, **TaintQL v2.0.0**, **BlindStrike v7.0.0**, **Reflectra v7.0.0**, and **ReconForge v3**.
 > - **Standards & Methodologies:** **OWASP Top 10 (2021)**, **OWASP API Security Top 10 (2023)**, **OWASP WSTG v4.2**, **OWASP ASVS v4.0**, **NIST SP 800-115**, **CVSS v3.1** Defensible Scoring.
 > - **Location & Mobility:** **Pune, Maharashtra, India** (Open to Worldwide Relocation & Remote Engagements).
 > - **Direct Reach:** ✉️ **[pratik.khairnar.sec@gmail.com](mailto:pratik.khairnar.sec@gmail.com)** • 📞 **[+91 87999 81052](tel:+918799981052)** • 🌐 **[pratikkhairnarsec.web.app](https://pratikkhairnarsec.web.app/)**
@@ -126,29 +126,12 @@ Rather than relying purely on off-the-shelf automated scanners that produce nois
 
 ---
 
-## 🤖 Flagship Copilot: Aarya AI (Cyber Security & VAPT Platform)
-
-> **Autonomous AI Cyber Security Copilot, Interactive 225-Question VAPT Master Defense Simulator & Live Job Intelligence Radar**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Aarya%20AI-Autonomous%20Security%20Copilot-38bdf8?style=for-the-badge&logo=openai&logoColor=white" alt="Aarya AI">
-  <img src="https://img.shields.io/badge/Question%20Bank-225%20Master%20VAPT%20Defense-10b981?style=for-the-badge&logo=gitbook&logoColor=white" alt="225 Q Bank">
-  <img src="https://img.shields.io/badge/Job%20Radar-1%2C400%2B%20Live%20Openings-f59e0b?style=for-the-badge&logo=target&logoColor=white" alt="Job Radar">
-</p>
-
-- 🧠 **Dual-AI Core Architecture:** Powered by DeepSeek R1 and Gemini 2.5 Flash, providing real-time offensive attack surface analysis, payload generation, and remediation guidance.
-- 📖 **Interactive 225-Question VAPT Answer Key Viewer:** Embedded master examination system featuring 10 specialized domains, live search across 225 production-grade scenarios, and a print-ready 226-page master defense PDF.
-- 🔍 **Real-Time Job Intelligence Radar:** Curated database of 1,400+ actively open Cyber Security, VAPT, AppSec, and SOC positions across India, APAC, Europe, and the US with real-time skill matching.
-- ⚡ **Burp & Browser Integration:** Chrome Extension & Local Daemon enabling seamless workflow interception, API token vaulting, and terminal-ready PoC script generation.
-
----
-
 ## 🛡️ Complete Offensive Security Arsenal & Open-Source Tools
 
 | Tool / Framework | Core Architecture | Version | Category | Live Demo / Docs | GitHub Repository |
 |---|---|---|---|---|---|
 | **AUTHENTIX Enterprise** | Native Burp Suite Montoya API: 34 Invariants, 30+ Secret Rules, 16 ATO Chains | `v2.1.0` | 🏆 Flagship | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/authentix-enterprise/) | [`authentix-enterprise`](https://github.com/pratik-khairnar-sec/authentix-enterprise) |
-| **Aarya AI** | Autonomous AI Cyber Security Copilot, 225 VAPT Q-Bank & 1,400+ Job Intelligence Radar | `v2.5` | 🤖 AI Platform | [📖 System Docs](https://github.com/pratik-khairnar-sec/Aarya-AI#readme) | [`Aarya-AI`](https://github.com/pratik-khairnar-sec/Aarya-AI) |
+| **TaintQL** | Second-Order SQLi & Stored Data Flow Tracer: Deep UI Unfolding & Dual-Role Boundary Audit | `v2.0.0` | 🛡️ AppSec / VAPT | [📖 System Docs](https://github.com/pratik-khairnar-sec/TaintQL#readme) | [`TaintQL`](https://github.com/pratik-khairnar-sec/TaintQL) |
 | **Cybersecurity Showcase** | Official Interactive Portfolio & VAPT Technical Proof-of-Skill Showcase | `Production` | 🌐 Portfolio | [🌐 Live Site](https://pratikkhairnarsec.web.app/) | [`portfolio`](https://github.com/pratik-khairnar-sec/portfolio) |
 | **Reflectra** | Context-aware DOM XSS scanner with Headless Chrome verification & DOM-sink analysis | `v7.0.0` | 🛡️ AppSec | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/Reflectra/) | [`Reflectra`](https://github.com/pratik-khairnar-sec/Reflectra) |
 | **BlindStrike** | Statistical Blind SQLi framework with Interquartile Range (IQR) latency noise calibration | `v7.0.0` | 🛡️ AppSec | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/BlindStrike/) | [`BlindStrike`](https://github.com/pratik-khairnar-sec/BlindStrike) |
