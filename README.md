@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=920&lines=Certified+Ethical+Hacker+(CEH+v13)+%E2%80%A2+EC-Council+Verified;Offensive+Security+Tool+Architect+%7C+Burp+Montoya+API+(Java+17%2F21);Creator+of+AUTHENTIX+Enterprise%2C+TaintQL%2C+BlindStrike+%26+Reflectra;Web+%26+API+Penetration+Tester+(OWASP+Top+10+%E2%80%A2+WSTG+v4.2+%E2%80%A2+BOLA%2FIDOR);Digital+Forensics+%E2%80%A2+15%2B+Police+Investigations+(ISO%2FIEC+27037)" alt="Pratik Khairnar Typing Headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=920&lines=Certified+Ethical+Hacker+(CEH+v13)+%E2%80%A2+EC-Council+Verified;Offensive+Security+Tool+Architect+%7C+Burp+Montoya+API+(Java+17%2F21);Creator+of+AUTHENTIX+Enterprise%2C+BlindStrike%2C+Reflectra+%26+ReconForge;Web+%26+API+Penetration+Tester+(OWASP+Top+10+%E2%80%A2+WSTG+v4.2+%E2%80%A2+BOLA%2FIDOR);Digital+Forensics+%E2%80%A2+15%2B+Police+Investigations+(ISO%2FIEC+27037)" alt="Pratik Khairnar Typing Headline" />
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@
 > - **Accredited Credentials:** **Certified Ethical Hacker (CEH v13)** (EC-Council Exam ID: `ECC8042517936` • ANSI/ISO/IEC 17024 Accredited) • **Cisco Certified Network Associate (CCNA)** (Cisco Networking Academy).
 > - **Academic Foundation:** Bachelor of Technology (**B.Tech**) in Computer Science & Engineering (**Cyber Security & Forensics**), Sandip University, Nashik (2023 — 2027) • **CGPA: 7.42 / 10**.
 > - **Law Enforcement Operations:** Cyber Crime & Digital Forensics Intern, **Cyber Police Station, Nashik Police Commissionerate** (15+ live cybercrime and financial fraud investigations; ISO/IEC 27037 chain-of-custody).
-> - **Tool Architecture:** Native **Burp Suite Montoya API** Extension Architect (Java 17/21) • Author of Flagship **AUTHENTIX Enterprise v2.1.0**, **TaintQL v2.0.0**, **BlindStrike v7.0.0**, **Reflectra v7.0.0**, and **ReconForge v3**.
+> - **Tool Architecture:** Native **Burp Suite Montoya API** Extension Architect (Java 17/21) • Author of Flagship **AUTHENTIX Enterprise v2.1.0**, **BlindStrike v7.0.0**, **Reflectra v7.0.0**, and **ReconForge v3**.
 > - **Standards & Methodologies:** **OWASP Top 10 (2021)**, **OWASP API Security Top 10 (2023)**, **OWASP WSTG v4.2**, **OWASP ASVS v4.0**, **NIST SP 800-115**, **CVSS v3.1** Defensible Scoring.
 > - **Location & Mobility:** **Pune, Maharashtra, India** (Open to Worldwide Relocation & Remote Engagements).
 > - **Direct Reach:** ✉️ **[pratik.khairnar.sec@gmail.com](mailto:pratik.khairnar.sec@gmail.com)** • 📞 **[+91 87999 81052](tel:+918799981052)** • 🌐 **[pratikkhairnarsec.web.app](https://pratikkhairnarsec.web.app/)**
@@ -131,7 +131,6 @@ Rather than relying purely on off-the-shelf automated scanners that produce nois
 | Tool / Framework | Core Architecture | Version | Category | Live Demo / Docs | GitHub Repository |
 |---|---|---|---|---|---|
 | **AUTHENTIX Enterprise** | Native Burp Suite Montoya API: 34 Invariants, 30+ Secret Rules, 16 ATO Chains | `v2.1.0` | 🏆 Flagship | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/authentix-enterprise/) | [`authentix-enterprise`](https://github.com/pratik-khairnar-sec/authentix-enterprise) |
-| **TaintQL** | Second-Order SQLi & Stored Data Flow Tracer: Deep UI Unfolding & Dual-Role Boundary Audit | `v2.0.0` | 🛡️ AppSec / VAPT | [📖 System Docs](https://github.com/pratik-khairnar-sec/TaintQL#readme) | [`TaintQL`](https://github.com/pratik-khairnar-sec/TaintQL) |
 | **Cybersecurity Showcase** | Official Interactive Portfolio & VAPT Technical Proof-of-Skill Showcase | `Production` | 🌐 Portfolio | [🌐 Live Site](https://pratikkhairnarsec.web.app/) | [`portfolio`](https://github.com/pratik-khairnar-sec/portfolio) |
 | **Reflectra** | Context-aware DOM XSS scanner with Headless Chrome verification & DOM-sink analysis | `v7.0.0` | 🛡️ AppSec | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/Reflectra/) | [`Reflectra`](https://github.com/pratik-khairnar-sec/Reflectra) |
 | **BlindStrike** | Statistical Blind SQLi framework with Interquartile Range (IQR) latency noise calibration | `v7.0.0` | 🛡️ AppSec | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/BlindStrike/) | [`BlindStrike`](https://github.com/pratik-khairnar-sec/BlindStrike) |
@@ -175,79 +174,6 @@ Rather than relying purely on off-the-shelf automated scanners that produce nois
   <img src="https://img.shields.io/badge/Git%20Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/Docker%20Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </p>
-
----
-
-## 📝 Research Publications & Technical Whitepapers
-
-<p align="center">
-  <a href="https://pratik-khairnar-sec.medium.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-Read%20Technical%20Articles-12100e?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Articles">
-  </a>
-  <a href="https://x.com/PratikSec" target="_blank">
-    <img src="https://img.shields.io/badge/X%20(Twitter)-Follow%20%40PratikSec-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Twitter">
-  </a>
-</p>
-
-### 🌟 Featured Architectural Whitepaper:
-> ### 📖 [ReconForge v3: Automating 30 Phases of Bug Bounty Reconnaissance, Zero-Install, 52,600+ Search Queries](https://pratik-khairnar-sec.medium.com/reconforge-v3-automating-33-phases-of-bug-bounty-reconnaissance-zero-install-13-600-search-7c0e353a709b)
-> 
-> An architectural deep dive into designing a 100% client-side, zero-install reconnaissance operating system. Covers recursive query expansion across 30 offensive testing phases, client-side state engines, dynamic tokenization, and multi-dork attack surface analysis.
-> 
-> 🔗 **[Read Full Article on Medium](https://pratik-khairnar-sec.medium.com/reconforge-v3-automating-33-phases-of-bug-bounty-reconnaissance-zero-install-13-600-search-7c0e353a709b)** • 🧵 **[Technical Breakdown on X (@PratikSec)](https://x.com/PratikSec/status/2108584870293451190)**
-
----
-
-## 📈 Security Engineering Telemetry
-
-<p align="center">
-  <img src="assets/telemetry.svg" width="100%" alt="VAPT Capabilities & Telemetry" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratik-khairnar-sec&show_icons=true&theme=tokyonight&hide_border=true&bg_color=040711&title_color=38bdf8&text_color=94a3b8&icon_color=10b981" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratik-khairnar-sec&theme=tokyonight&hide_border=true&background=040711&ring=38bdf8&fire=10b981&currStreakLabel=10b981" alt="GitHub Streak" width="49%" />
-</p>
-
----
-
-## 🔍 Comprehensive ATS Index & Keyword Taxonomy
-
-<details>
-<summary><b>📋 Click to Expand Comprehensive ATS & Recruiter Keyword Index</b></summary>
-<br>
-
-**Target Positions & Roles:**  
-Penetration Tester, Web Application Penetration Tester, VAPT Engineer, Application Security Engineer (AppSec), Information Security Analyst, Security Consultant, Cyber Security Researcher, Offensive Security Engineer, Red Team Analyst, Security Tool Architect.
-
-**Methodologies & Frameworks:**  
-OWASP Top 10 (2021), OWASP API Security Top 10 (2023), OWASP WSTG v4.2, OWASP ASVS v4.0, NIST SP 800-115, PTES, SANS Top 25, CWE, CVSS v3.1, Dynamic Application Security Testing (DAST), Static Application Security Testing (SAST), Secure SDLC (SSDLC), Threat Modeling, Vulnerability Assessment & Penetration Testing (VAPT).
-
-**Attack Vectors & Exploitation Tradecraft:**  
-Broken Object Level Authorization (BOLA), Insecure Direct Object References (IDOR), Broken Function Level Authorization (BFLA), Broken Access Control, Privilege Escalation (Horizontal & Vertical), Multi-Tenant Isolation Flaws, Time-Based Blind SQL Injection, Boolean Blind SQL Injection, Error-Based SQLi, Cross-Site Scripting (XSS), Reflected XSS, Stored XSS, DOM-based XSS, Content Security Policy (CSP) Bypass, Server-Side Request Forgery (SSRF), Cross-Origin Resource Sharing (CORS) Misconfiguration, Access-Control-Allow-Origin (ACAO), Access-Control-Allow-Credentials (ACAC), OAuth 2.0 Flow Bypasses, JWT Signature Tampering, JWT None Algorithm, Weak Secret Keys, Session Fixation, Session Hijacking, OTP Replay Attacks, Business Logic Flaws.
-
-**Security Tools & Laboratory:**  
-Burp Suite Professional, Burp Suite Montoya API, PortSwigger Web Security Academy, Postman, OWASP ZAP, Nmap, Wireshark, SQLMap, Kali Linux, Ubuntu Linux, Docker, Git, GitHub Actions, ffuf, Gobuster, Dirsearch, Metasploit, Headless Chrome.
-
-**Programming & Engineering:**  
-Python 3 (Requests, Regex, Custom PoC Automation), Java 17, Java 21, OpenJDK, Bash, Shell Scripting, JavaScript (ES6+), Chrome Extension Manifest V3, HTML5, CSS3, SQL, JSON, RESTful APIs.
-
-**Digital Forensics & Law Enforcement Standards:**  
-Chain of Custody (ISO/IEC 27037), Call Detail Record (CDR) Analysis, IP Detail Record (IPDR) Analysis, Packet Capture (PCAP) Dissection, Android APK Reverse Engineering, Indicators of Compromise (IOC) Identification, Cybercrime Fraud Investigation.
-
-**Verified Certifications & Academic Degree:**  
-Certified Ethical Hacker (CEH v13 - EC-Council | Exam ID: ECC8042517936), Cisco Certified Network Associate (CCNA - Cisco Networking Academy), Bachelor of Technology (B.Tech) in Computer Science & Engineering (Cyber Security & Digital Forensics) - Sandip University (CGPA: 7.42/10).
-
-</details>
-
----
-
-## 🛡️ Responsible Disclosure & Ethical Statement
-
-> [!NOTE]
-> All software repositories, tools, proof-of-concept scripts, and technical research published under this profile are developed strictly for **educational security research**, **authorized penetration testing**, and **defensive vulnerability assessments**.
-> 
-> Security testing against digital targets without prior written authorization from the system owner is strictly prohibited. As a security professional and Certified Ethical Hacker, I strictly adhere to responsible disclosure guidelines and ethical security standards.
 
 ---
 
