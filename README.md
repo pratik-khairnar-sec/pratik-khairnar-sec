@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner-v2.svg" width="100%" alt="Pratik Khairnar - Certified Ethical Hacker & Offensive Security Engineer" />
+  <img src="assets/banner-v3.svg" width="100%" alt="Pratik Khairnar - Offensive Security Engineer & AppSec Researcher" />
 </p>
 
 <p align="center">
