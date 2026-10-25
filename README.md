@@ -14,12 +14,13 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/pratik-khairnar-sec/"><img src="https://img.shields.io/badge/LinkedIn-pratik--khairnar--sec-0077b5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://pratikkhairnarsec.web.app/"><img src="https://img.shields.io/badge/Portfolio-Interactive%20Showcase-38bdf8?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
-  <a href="https://x.com/PratikSec"><img src="https://img.shields.io/badge/X%20(Twitter)-%40PratikSec-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter"></a>
-  <a href="https://pratik-khairnar-sec.medium.com/"><img src="https://img.shields.io/badge/Medium-pratik--khairnar--sec-12100e?style=flat-square&logo=medium&logoColor=white" alt="Medium"></a>
-  <a href="https://t.me/pratik_khairnar_sec"><img src="https://img.shields.io/badge/Telegram-%40pratik__khairnar__sec-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="https://discord.com/users/1531910259080167494"><img src="https://img.shields.io/badge/Discord-pratik.khairnar.sec-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
+  <b><a href="#-executive-profile--security-leadership">Executive Dossier</a></b> •
+  <b><a href="#-operational-experience--case-work">Police Forensics</a></b> •
+  <b><a href="#-verified-certifications--education">Credentials</a></b> •
+  <b><a href="#-flagship-offensive-architecture-authentix-enterprise">AUTHENTIX Flagship</a></b> •
+  <b><a href="#-complete-offensive-security-arsenal">Tool Arsenal</a></b> •
+  <b><a href="#-technical-competency-matrix">Skills Matrix</a></b> •
+  <b><a href="#-direct-reach--contact">Contact</a></b>
 </p>
 
 ---
@@ -36,6 +37,15 @@
 > - **Standards & Methodologies:** **OWASP Top 10 (2021)**, **OWASP API Security Top 10 (2023)**, **OWASP WSTG v4.2**, **OWASP ASVS v4.0**, **NIST SP 800-115**, **CVSS v3.1** Defensible Scoring.
 > - **Location & Mobility:** **Pune, Maharashtra, India** (Open to Worldwide Relocation & Remote Engagements).
 > - **Direct Reach:** ✉️ **[pratik.khairnar.sec@gmail.com](mailto:pratik.khairnar.sec@gmail.com)** • 📞 **[+91 87999 81052](tel:+918799981052)** • 🌐 **[pratikkhairnarsec.web.app](https://pratikkhairnarsec.web.app/)**
+
+```
+┌─────────────────────────────────┐  ┌─────────────────────────────────┐  ┌─────────────────────────────────┐
+│     ⚖️ Law Enforcement Casework │  │     🏆 Offensive Architecture   │  │    📜 Verified Credentials      │
+│  • 15+ Live Police Cases        │  │  • AUTHENTIX Enterprise (v2.1)  │  │  • CEH v13 (EC-Council Accred)  │
+│  • ISO/IEC 27037 Chain-of-Cust  │  │  • 34 Invariants · 16 ATO Chains│  │  • Exam ID: ECC8042517936       │
+│  • CDR / IPDR & Wireshark PCAP  │  │  • PortSwigger Montoya API Java │  │  • CCNA & B.Tech Cyber Security │
+└─────────────────────────────────┘  └─────────────────────────────────┘  └─────────────────────────────────┘
+```
 
 I am an **Offensive Security Engineer**, **EC-Council Certified Ethical Hacker (CEH v13)**, and **Security Tool Architect**. My tradecraft bridges the gap between deep **manual penetration testing** (specializing in authorization logic flaws like BOLA/IDOR, OAuth/JWT bypasses, and time-based injection) and **custom offensive systems engineering**.
 
@@ -126,15 +136,15 @@ Rather than relying purely on off-the-shelf automated scanners that produce nois
 
 ---
 
-## 🛡️ Complete Offensive Security Arsenal & Open-Source Tools
+## 🛡️ Complete Offensive Security Arsenal
 
-| Tool / Framework | Core Architecture | Version | Category | Live Demo / Docs | GitHub Repository |
+| Suite / Tool | Core Architecture & Technology | Version | Category | Live Demo Sandbox | GitHub Repository |
 |---|---|---|---|---|---|
-| **AUTHENTIX Enterprise** | Native Burp Suite Montoya API: 34 Invariants, 30+ Secret Rules, 16 ATO Chains | `v2.1.0` | 🏆 Flagship | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/authentix-enterprise/) | [`authentix-enterprise`](https://github.com/pratik-khairnar-sec/authentix-enterprise) |
-| **Cybersecurity Showcase** | Official Interactive Portfolio & VAPT Technical Proof-of-Skill Showcase | `Production` | 🌐 Portfolio | [🌐 Live Site](https://pratikkhairnarsec.web.app/) | [`portfolio`](https://github.com/pratik-khairnar-sec/portfolio) |
-| **Reflectra** | Context-aware DOM XSS scanner with Headless Chrome verification & DOM-sink analysis | `v7.0.0` | 🛡️ AppSec | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/Reflectra/) | [`Reflectra`](https://github.com/pratik-khairnar-sec/Reflectra) |
-| **BlindStrike** | Statistical Blind SQLi framework with Interquartile Range (IQR) latency noise calibration | `v7.0.0` | 🛡️ AppSec | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/BlindStrike/) | [`BlindStrike`](https://github.com/pratik-khairnar-sec/BlindStrike) |
-| **ReconForge** | Master Bug Bounty & VAPT recon workspace: 30 Testing Phases & 52,630+ Curated Dorks | `v3.0` | ⚡ OSINT | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/ReconForge/) | [`ReconForge`](https://github.com/pratik-khairnar-sec/ReconForge) |
+| **AUTHENTIX Enterprise** | Native Burp Suite Montoya API: 34 Invariants, 30+ Secret Rules, 16 ATO Chains (Java 17/21) | `v2.1.0` | 🏆 Flagship | [🌐 Live Sandbox](https://pratik-khairnar-sec.github.io/authentix-enterprise/) | [`authentix-enterprise`](https://github.com/pratik-khairnar-sec/authentix-enterprise) |
+| **Cybersecurity Showcase** | Official Interactive Cybersecurity Portfolio & VAPT Engineer Showcase | `Production` | 🌐 Portfolio | [🌐 Live Showcase](https://pratikkhairnarsec.web.app/) | [`portfolio`](https://github.com/pratik-khairnar-sec/portfolio) |
+| **BlindStrike** | Latency-calibrated Time & Boolean Blind SQLi Framework with Interquartile Range (IQR) noise filtering | `v7.0.0` | 🛡️ AppSec | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/BlindStrike/) | [`BlindStrike`](https://github.com/pratik-khairnar-sec/BlindStrike) |
+| **Reflectra** | Context-aware DOM XSS scanner with Headless Chrome verification & zero false positives | `v7.0.0` | 🛡️ AppSec | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/Reflectra/) | [`Reflectra`](https://github.com/pratik-khairnar-sec/Reflectra) |
+| **ReconForge** | Master Bug Bounty & VAPT Reconnaissance Operating System (30 Phases & 52,630+ Curated Dorks) | `v3.0.0` | ⚡ OSINT | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/ReconForge/) | [`ReconForge`](https://github.com/pratik-khairnar-sec/ReconForge) |
 | **CORSair** | Cross-Origin Resource Sharing security analyzer with Shannon entropy token leak detection | `v3.0.0` | 🛡️ AppSec | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/CORSair/) | [`CORSair`](https://github.com/pratik-khairnar-sec/CORSair) |
 | **WaybackLens** | High-performance Wayback Machine CDX Recon & Triage Chrome Extension (Manifest V3) | `v1.0.0` | 🔎 OSINT | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/wayback-lens/) | [`wayback-lens`](https://github.com/pratik-khairnar-sec/wayback-lens) |
 | **EndpointFinder** | Autonomous Chrome Extension for deep client-side JavaScript endpoint & parameter extraction | `v1.0.0` | 🔎 Recon | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/endpoint-finder-extension/) | [`endpoint-finder-extension`](https://github.com/pratik-khairnar-sec/endpoint-finder-extension) |
@@ -179,21 +189,7 @@ Rather than relying purely on off-the-shelf automated scanners that produce nois
 
 <p align="center">
   <b>Pratik Sanjay Khairnar</b><br>
-  <sub>⚡ Certified Ethical Hacker (CEH v13) • Offensive Security Engineer • Burp Montoya Tool Architect ⚡</sub><br>
+  <sub>⚡ Certified Ethical Hacker (CEH v13) • Offensive Security Engineer • Security Tool Architect ⚡</sub><br>
   <sub>🌐 <a href="https://pratikkhairnarsec.web.app/">pratikkhairnarsec.web.app</a> • ✉️ <a href="mailto:pratik.khairnar.sec@gmail.com">pratik.khairnar.sec@gmail.com</a> • 💼 <a href="https://linkedin.com/in/pratik-khairnar-sec/">LinkedIn Profile</a> • 📞 <a href="tel:+918799981052">+91 87999 81052</a></sub><br>
   <sub>📍 Pune, Maharashtra, India (Open to Worldwide Relocation)</sub>
 </p>
-
-
-<!-- START_PORTFOLIO -->
-| Framework / Tool | Core Functionality | Version | Category | Interactive Demo | Repository |
-|---|---|---|---|---|---|
-| **AUTHENTIX Enterprise** | Burp Suite Montoya Security Suite: 27 Invariants, 28 Secret Rules, 12 ATO Chains | `v2.1.0` | 🏆 Flagship | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/authentix-enterprise/) | [`authentix-enterprise`](https://github.com/pratik-khairnar-sec/authentix-enterprise) |
-| **Cybersecurity Portfolio & Showcase** | Official Interactive Cybersecurity Portfolio & VAPT Engineer Showcase | `Live` | 🌐 Live Portfolio | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/portfolio/) | [`portfolio`](https://github.com/pratik-khairnar-sec/portfolio) |
-| **Reflectra** | Context-aware XSS scanner with Headless Chrome verification & DOM-sink analysis | `v7.0.0` | 🛡️ AppSec | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/Reflectra/) | [`Reflectra`](https://github.com/pratik-khairnar-sec/Reflectra) |
-| **BlindStrike** | Time-Based & Boolean Blind SQLi framework with baseline latency calibration | `v7.0.0` | 🛡️ AppSec | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/BlindStrike/) | [`BlindStrike`](https://github.com/pratik-khairnar-sec/BlindStrike) |
-| **WaybackLens** | High-Performance Wayback Machine CDX Recon & Triage Chrome Extension (Manifest V3) | `v1.0.0` | 🔎 OSINT | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/wayback-lens/) | [`wayback-lens`](https://github.com/pratik-khairnar-sec/wayback-lens) |
-| **EndpointFinder** | Autonomous Chrome Extension for deep client-side JS endpoint & parameter extraction | `v1.0.0` | 🔎 Recon | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/endpoint-finder-extension/) | [`endpoint-finder-extension`](https://github.com/pratik-khairnar-sec/endpoint-finder-extension) |
-| **ReconForge** | Master Bug Bounty & VAPT Multi-Target Framework with 33 Phases & 13,600+ Dorks | `v3.0.0` | ⚡ Framework | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/ReconForge/) | [`ReconForge`](https://github.com/pratik-khairnar-sec/ReconForge) |
-| **CORSair** | Cross-Origin Request Security Analysis & PoC Engine with automated exploitation staging | `v3.0.0` | 🛡️ AppSec | [🌐 Live Demo](https://pratik-khairnar-sec.github.io/CORSair/) | [`CORSair`](https://github.com/pratik-khairnar-sec/CORSair) |
-<!-- END_PORTFOLIO -->
