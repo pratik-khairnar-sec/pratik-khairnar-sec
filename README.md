@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Pratik Khairnar - Certified Ethical Hacker & Offensive Security Engineer" />
+  <img src="assets/banner-v2.svg" width="100%" alt="Pratik Khairnar - Certified Ethical Hacker & Offensive Security Engineer" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=920&lines=Certified+Ethical+Hacker+(CEH+v13)+%E2%80%A2+EC-Council+Verified;Offensive+Security+Tool+Architect+%7C+Burp+Montoya+API+(Java+17%2F21);Creator+of+AUTHENTIX+Enterprise%2C+BlindStrike%2C+Reflectra+%26+ReconForge;Web+%26+API+Penetration+Tester+(OWASP+Top+10+%E2%80%A2+WSTG+v4.2+%E2%80%A2+BOLA%2FIDOR);Digital+Forensics+%E2%80%A2+15%2B+Police+Investigations+(ISO%2FIEC+27037)" alt="Pratik Khairnar Typing Headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=920&lines=Certified+Ethical+Hacker+(CEH+v13)+%E2%80%A2+EC-Council+Verified;Offensive+Security+Engineer+%E2%80%A2+Security+Tool+Architect+(Java+%26+Python);Creator+of+AUTHENTIX+Enterprise%2C+BlindStrike%2C+Reflectra+%26+ReconForge;Web+%26+API+Penetration+Tester+(OWASP+Top+10+%E2%80%A2+WSTG+v4.2+%E2%80%A2+BOLA%2FIDOR);Digital+Forensics+%E2%80%A2+15%2B+Police+Investigations+(ISO%2FIEC+27037)" alt="Pratik Khairnar Typing Headline" />
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@
 > - **Accredited Credentials:** **Certified Ethical Hacker (CEH v13)** (EC-Council Exam ID: `ECC8042517936` • ANSI/ISO/IEC 17024 Accredited) • **Cisco Certified Network Associate (CCNA)** (Cisco Networking Academy).
 > - **Academic Foundation:** Bachelor of Technology (**B.Tech**) in Computer Science & Engineering (**Cyber Security & Forensics**), Sandip University, Nashik (2023 — 2027) • **CGPA: 7.42 / 10**.
 > - **Law Enforcement Operations:** Cyber Crime & Digital Forensics Intern, **Cyber Police Station, Nashik Police Commissionerate** (15+ live cybercrime and financial fraud investigations; ISO/IEC 27037 chain-of-custody).
-> - **Tool Architecture:** Native **Burp Suite Montoya API** Extension Architect (Java 17/21) • Author of Flagship **AUTHENTIX Enterprise v2.1.0**, **BlindStrike v7.0.0**, **Reflectra v7.0.0**, and **ReconForge v3**.
+> - **Tool Architecture:** Offensive Security Tool Architect (Java 17/21 & Python 3) • Author of Flagship **AUTHENTIX Enterprise v2.1.0**, **BlindStrike v7.0.0**, **Reflectra v7.0.0**, and **ReconForge v3**.
 > - **Standards & Methodologies:** **OWASP Top 10 (2021)**, **OWASP API Security Top 10 (2023)**, **OWASP WSTG v4.2**, **OWASP ASVS v4.0**, **NIST SP 800-115**, **CVSS v3.1** Defensible Scoring.
 > - **Location & Mobility:** **Pune, Maharashtra, India** (Open to Worldwide Relocation & Remote Engagements).
 > - **Direct Reach:** ✉️ **[pratik.khairnar.sec@gmail.com](mailto:pratik.khairnar.sec@gmail.com)** • 📞 **[+91 87999 81052](tel:+918799981052)** • 🌐 **[pratikkhairnarsec.web.app](https://pratikkhairnarsec.web.app/)**
@@ -43,7 +43,7 @@
 │     ⚖️ Law Enforcement Casework │  │     🏆 Offensive Architecture   │  │    📜 Verified Credentials      │
 │  • 15+ Live Police Cases        │  │  • AUTHENTIX Enterprise (v2.1)  │  │  • CEH v13 (EC-Council Accred)  │
 │  • ISO/IEC 27037 Chain-of-Cust  │  │  • 34 Invariants · 16 ATO Chains│  │  • Exam ID: ECC8042517936       │
-│  • CDR / IPDR & Wireshark PCAP  │  │  • PortSwigger Montoya API Java │  │  • CCNA & B.Tech Cyber Security │
+│  • CDR / IPDR & Wireshark PCAP  │  │  • Java 17/21 Offensive Engine  │  │  • CCNA & B.Tech Cyber Security │
 └─────────────────────────────────┘  └─────────────────────────────────┘  └─────────────────────────────────┘
 ```
 
