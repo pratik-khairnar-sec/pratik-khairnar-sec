@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner-v3.svg" width="100%" alt="Pratik Khairnar - Offensive Security Engineer & AppSec Researcher" />
+  <img src="assets/banner-v4.svg" width="100%" alt="Pratik Khairnar - Web & API Penetration Tester & Offensive Security Engineer" />
 </p>
 
 <p align="center">
